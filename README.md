@@ -310,7 +310,7 @@ DO THIS EVERY TIME YOU ADD SOLUTIONS:
 6. git commit -m 'add perceptrons solutions'
 7. git push
 
-[* add solutions to cohort's solutions repo](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
+[* add solutions to cohort's solutions repo how to video](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
 
 ## Daily Announcements  
 
@@ -394,7 +394,7 @@ git commit -m 'add assessment-0 solutions'
 git push
 ```
 
-[* add assessment solutions to cohort's solutions repo](https://drive.google.com/file/d/1c5u2M1G9GcI6baEgayPEBUhRXYw9thLg/view?usp=sharing)
+[* add assessment solutions to cohort's solutions repo how to video](https://drive.google.com/file/d/1c5u2M1G9GcI6baEgayPEBUhRXYw9thLg/view?usp=sharing)
 
 ## Adding Assessment Solutions to Learn
 [RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md) 
