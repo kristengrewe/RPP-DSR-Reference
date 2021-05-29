@@ -402,9 +402,9 @@ git push
 [RPP2 Learn Assessment 5](https://learn-2.galvanize.com/cohorts/2432/blocks/115/content_files/assessment-5.md?assessment=true)
 
 - ### In Hub (2 places to input grades)
-[RPP2 Assessment point Google doc](https://docs.google.com/spreadsheets/d/1Lnw2u4Kuyqd86-qhAc_RTMejsb9QslhzagZSniIlZZA/edit#gid=1452309963)  
+[RPP2 Assessment point Google sheet](https://docs.google.com/spreadsheets/d/1Lnw2u4Kuyqd86-qhAc_RTMejsb9QslhzagZSniIlZZA/edit#gid=1452309963)  
 
-[RPP2 Assessment results Google doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=341773588)
+[RPP2 Assessment results Google sheet](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=341773588)
 
 [* grading assessments how to video]()
 
