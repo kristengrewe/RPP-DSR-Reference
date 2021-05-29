@@ -408,14 +408,10 @@ git push
 
 Assessment statistics will populate after inputs are complete, which can be used to add statistics to Learn:
 
-- ### Adding Assessment Statistics to Learn
+- ### Adding Assessment Statistics & Solutions to Learn
 [RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md)
 
-## Adding Assessment Solutions to Learn
-[RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md) 
-
 [* editing learn to add assessment statistics & solutions link how to video]()
-
 
 
 # Case Study Days  
