@@ -46,7 +46,7 @@ How To Videos
 
 - [Opening Assessments in Learn 1:13](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
 
-- [FRI 5/28 Grade assessments TBD]()
+- [FRI 5/28 Grade assessments TBD](https://drive.google.com/file/d/1dNWeRkPHVlmTwg8TEfPE3YWnp4Hytu1U/view?usp=sharing)
 
 - [FRI 5/28 Add Assessment Solutions to Solutions Repo 2:28](https://drive.google.com/file/d/1c5u2M1G9GcI6baEgayPEBUhRXYw9thLg/view?usp=sharing)
 
@@ -413,7 +413,7 @@ Assessment statistics will populate after inputs are complete, which can be used
 - ### Adding Assessment Statistics & Solutions to Learn
 [RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md)
 
-[* editing learn to add assessment statistics & solutions link how to video]()
+[* editing learn to add assessment statistics & solutions link how to video](https://drive.google.com/file/d/1dNWeRkPHVlmTwg8TEfPE3YWnp4Hytu1U/view?usp=sharing)
 
 
 # Case Study Days  
