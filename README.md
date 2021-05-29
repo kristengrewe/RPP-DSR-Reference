@@ -406,6 +406,8 @@ git push
 
 [RPP2 Assessment results Google doc](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=341773588)
 
+[* grading assessments how to video]()
+
 Assessment statistics will populate after inputs are complete, which can be used to add statistics to Learn:
 
 - ### Adding Assessment Statistics & Solutions to Learn
