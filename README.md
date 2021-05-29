@@ -396,10 +396,6 @@ git push
 
 [* add assessment solutions to cohort's solutions repo how to video](https://drive.google.com/file/d/1c5u2M1G9GcI6baEgayPEBUhRXYw9thLg/view?usp=sharing)
 
-## Adding Assessment Solutions to Learn
-[RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md) 
-
-[* editing learn to add assessments solutions link how to video]()
 
 ## Grading Assessments
 - ### In Learn  
@@ -414,6 +410,11 @@ Assessment statistics will populate after inputs are complete, which can be used
 
 - ### Adding Assessment Statistics to Learn
 [RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md)
+
+## Adding Assessment Solutions to Learn
+[RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md) 
+
+[* editing learn to add assessment statistics & solutions link how to video]()
 
 
 
