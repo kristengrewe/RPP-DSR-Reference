@@ -46,7 +46,7 @@ How To Videos
 
 - [Opening Assessments in Learn 1:13](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
 
-- [FRI 5/28 Grade assessments TBD](https://drive.google.com/file/d/1dNWeRkPHVlmTwg8TEfPE3YWnp4Hytu1U/view?usp=sharing)
+- [FRI 5/28 Grade assessments 6:12](https://drive.google.com/file/d/1dNWeRkPHVlmTwg8TEfPE3YWnp4Hytu1U/view?usp=sharing)
 
 - [FRI 5/28 Add Assessment Solutions to Solutions Repo 2:28](https://drive.google.com/file/d/1c5u2M1G9GcI6baEgayPEBUhRXYw9thLg/view?usp=sharing)
 
@@ -136,6 +136,10 @@ Note: In an open block, the eyeball will disappear, but hovering over the <block
 [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)  
 
 [GitHub gSchool](https://github.com/gSchool)
+
+[RPP2 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
+
+[RPP2 Pairs Google Sheet Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
 
 
 ### JUST ONE TIME, get access to gSchool Learn
