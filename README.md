@@ -388,7 +388,7 @@ From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 cd Desktop/Galvanize/RPP2/solutions-rpp2 # navigate into solutions repo 
 git pull
 git fetch solutions main
-git checkout solutions/main assessments/assessments-0 # using 0 as an example
+git checkout solutions/main assessments/assessment-0 # using 0 as an example
 git add .
 git commit -m 'add assessment-0 solutions'
 git push
