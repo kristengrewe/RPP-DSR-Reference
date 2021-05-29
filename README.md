@@ -48,7 +48,7 @@ How To Videos
 
 - [FRI 5/28 Grade assessments TBD]()
 
-- [FRI 5/28 Add Assessment Solutions TBD]()
+- [FRI 5/28 Add Assessment Solutions to Solutions Repo 2:28](https://drive.google.com/file/d/1c5u2M1G9GcI6baEgayPEBUhRXYw9thLg/view?usp=sharing)
 
 - [Ultipro Clock In/Out + Time Sheet Changes 6:22](https://drive.google.com/file/d/1YSCi5f5xv8xA5YE6Mao7llonSldUH8J8/view?usp=sharing)
 
@@ -393,6 +393,8 @@ git add .
 git commit -m 'add assessment-0 solutions'
 git push
 ```
+
+[* add assessment solutions to cohort's solutions repo](https://drive.google.com/file/d/1c5u2M1G9GcI6baEgayPEBUhRXYw9thLg/view?usp=sharing)
 
 ## Adding Assessment Solutions to Learn
 [RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md) 
