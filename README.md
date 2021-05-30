@@ -139,7 +139,7 @@ Note: In an open block, the eyeball will disappear, but hovering over the <block
 
 [RPP2 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
 
-[RPP2 Pairs Google Sheet Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
+[RPP2 Pairs Learn Link](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/07-pairs.md)
 
 
 ### JUST ONE TIME, get access to gSchool Learn
