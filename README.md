@@ -204,7 +204,7 @@ In Learn:
 
 
 ## Weekly Slack Announcements
-- ### due dates for current assignments
+- ### [due dates](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0) for current assignments
 - ### reminder to submit assignments
   - #### bold async assignment(s)
   - #### italicize paired assignment(s)
