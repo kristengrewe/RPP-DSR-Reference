@@ -133,6 +133,20 @@ ______________
 ______________
 # Assignments & Solutions
 
+## Assignment Submissions
+
+### Checking Assignment Submissions in Learn
+1. **UNIT PROGRESS** tab
+2. **<block_name>** use down arrow
+3. <Assignment_name> use down arrow   
+4. <Assignment_Submission> small circle indicates 'submitted'
+
+## After checking submissions in LEARN, update Assignment Submission Sheet in HUB 
+
+> A one-class grace has bee the norm. For example, if the assignment is due on Tuesday, checking for that assignment submission + updating the google sheet on Thursday worked well. At the discretion of the instructor/PL, students may ask for an extension to the due date.
+
+> [* checking and updating assignment submissions how to video](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
+
 ## Assignment Due Dates:
 - In general, the due date is a week from the corresponding lecture.  
 - Async assignments are due a week from that week's Saturday lecture.
@@ -232,22 +246,6 @@ ______________
 ## Attendance Policy (RPPT1 & RPP2)
 - Within the Attendance tab the process is very self-explanatory.  
 - Holding up fingers to show the instructor how many students we are waiting on has been effective in RPP2.
-
-______________
-
-## Assignment Submissions
-
-### [RPP2 Checking Assignment Submissions in Learn](https://learn-2.galvanize.com/cohorts/2432/unit_progress)  
-1. **UNIT PROGRESS** tab
-2. **<block_name>** use down arrow
-3. <Assignment_name> use down arrow   
-4. <Assignment_Submission> small circle indicates 'submitted'
-
-### [RPP2 Update Assignment Submission Sheet](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=1371301276)  
-
-A one-class grace has bee the norm. For example, if the assignment is due on Tuesday, checking for that assignment submission + updating the google sheet on Thursday worked well. At the discretion of the instructor/PL, students may ask for an extension to the due date.
-
-[* checking and updating assignment submissions how to video](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
 
 ______________
 
