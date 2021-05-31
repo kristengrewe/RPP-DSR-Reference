@@ -4,19 +4,13 @@
  
 [Daily & Weekly Tasks](#Daily-&-Weekly-Tasks)
 
-[All Class Days](#All-Class-Days) 
+# [RPP2 Main Hub](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)
 
-[Lecture Days](#Lecture-Days)  
- 
-[Assessment Days](#Assessment-Days) 
+# [RPP3 Main Hub](https://docs.google.com/spreadsheets/d/1IaD-8F5I1AIN4wzXJIDOzI6LsZiR6gl3UTq4b-px9_M/edit#gid=231386871)
 
-[Case Study Days](#Case-Study-Days)  
+# [RPP2 Classroom Link](https://zoom.us/my/rppdsi.jrs)
 
-[Capstone Days](#Capstone-Days) 
-
-[Retro Days](#Retro-Days)
-
-[Career Services Days](#Career-Services-Days)   
+# [RPP3 Classroom Link](https://zoom.us/j/4164223231) 
 
 [Help Desk](#Help-Desk)  
 
@@ -54,14 +48,6 @@ How To Videos
 
 
 ______________
- 
-# [RPP2 Main Hub](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)
-
-# [RPP3 Main Hub](https://docs.google.com/spreadsheets/d/1IaD-8F5I1AIN4wzXJIDOzI6LsZiR6gl3UTq4b-px9_M/edit#gid=231386871)
-
-# [RPP2 Classroom Link](https://zoom.us/my/rppdsi.jrs)
-
-# [RPP3 Classroom Link](https://zoom.us/j/4164223231)
 
 # Daily & Weekly Tasks 
 
@@ -79,15 +65,35 @@ ______________
 	- Open the LEARN modules for the upcoming week
 	- Check next week’s schedule (spreadsheet & google calendar) following items for accuracy:
 		- (spreadsheet calendar should be most up to date)
-		- Assignment due dates
-		- Lecturers for accuracy
+		- Check lecture, retro, assessment, case-study, capstones, break dates
 		- Check that all recordings have been uploaded to spreadsheet (update if they have not been uploaded)
-	- **Send a slack message out at the end of class of assignments due, assessments, and Capstone proposal due dates coming up the following week (include dates) 
+	- **Send a slack message out at the end of class of assignments due (including async), assessments, and Capstone proposal due dates coming up the following week (include dates)
+		- bold async assignment(s)
+		- italicize paired assignment(s)
+		- Announcement Example Image
+ 
 
+	[All Class Days](#All-Class-Days) 
 
+	[Lecture Days](#Lecture-Days)  
+
+	[Assessment Days](#Assessment-Days) 
+
+	[Case Study Days](#Case-Study-Days)  
+
+	[Capstone Days](#Capstone-Days) 
+
+	[Retro Days](#Retro-Days)
+	
+	[Career Services Days](#Career-Services-Days)  
+	
+______________
 
 ## Pair Programming
-	Simple code for random list of RPP2 students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
+Create pairs for any paired assignment - Choose one person to be the “scheduler”
+Refer to Cohort Hub Important Docs Tab for pairs google sheet (this sheet is student facing)
+
+Example of simple code for random list of students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
 	```python
 	import numpy as np
 	RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
@@ -97,140 +103,116 @@ ______________
 	np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 	```
 	
-  	**challenges**  
-    	- Sometimes students may express that they don't want to work with another student. Different instructors handle this differently, 	posting the proposed pairs/groups to the team allows feedback and maybe adjustments.  
-    	- Different time zones and work/family schedules can make pair programming difficult for part-time cohorts. 
+	**challenges**  
+	- Sometimes students may express that they don't want to work with another student. Different instructors handle this differently, 	posting the proposed pairs/groups to the team allows feedback and maybe adjustments.  
+	- Different time zones and work/family schedules can make pair programming difficult for part-time cohorts. 
     
     	Ask instructor regarding:   
       	- pairing based on time zones or schedules (alternatives to random pairings) 
       	- due date extensions with prior approval
 
-## Post Pairs
+	[* updating pairs how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
-Choose one person to be scheduler.
-
-[RPP2 Pairs Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/07-pairs.md)
-
-[RPP2 Pairs Google Sheeet](https://docs.google.com/spreadsheets/d/1VcBQ9OE8YPqudsBuj6NNbmeWkR7uR8n_VgK8BTgd6TQ/edit#gid=0)
-
-After creating pairs and getting feedback on adjustments, updating this google sheet will make the pairs visible to the students.
-
-[* updating pairs how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
-
-## Check Student Facing Calendars + Update Due Dates
+## Checking Student Facing Calendars + Update Due Dates
 
 [RPP Full Main Calendar - Individual Cohort Tabs](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=0)
 
-[RPP2 Main Calendar Google Sheet](https://calendar.google.com/calendar/u/0/r/week/2021/5/30)
-- Check DSR Coverage
-- Check lecture, retro, assessment, case-study, capstones, break dates
+DSR Coverage Calendars 
+- RPP2 DSR Google Calendar
+- RPP3 DSR Google Calendar 
+
+Cohort Google Calendars:
+- [RPP2 Schedule] (https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=883812835)
+- RPP3 Schedule 
+
 
 [RPP2 Cohort Schedule Google Sheet](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=883812835)
  - Are dates and order of modules correct? (Alert PL to discrepancies)
  - Check for Async assignment to be included in announcements
 
-The following Due Date task will be eliminated because the information is contained in the new **Cohort Schedule** above.
 
-[RPP2 Due Dates Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/08-assignment-due-date.md)
+Asignment Due Dates 
+	- In general, the due date is a week from the corresponding lecture.  
+	- Async assignments are due a week from that week's Saturday lecture.
+	- Paired assignments should be italicized
 
-[RPP2 Due Dates Google Sheet](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0)
+	[* updating due dates how to video](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
 
-- In general, the due date is a week from the corresponding lecture.  
-- Async assignments are due a week from that week's Saturday lecture.
-- Paired assignments should be italicized
+## How to open the Learn Modules for Upcoming Week
+	1. **SET UP** tab
+	2. **Content** tab
+	3. **<block_name>** block
+	4. click grey eyeball to right of <block_name>  
+	Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
 
-[* updating due dates how to video](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
+	[* open learn modules for upcoming week how to video](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
 
-## Open the Learn Modules for Upcoming Week  
-From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432/content)
-1. **SET UP** tab
-2. **Content** tab
-3. **<block_name>** block
-4. click grey eyeball to right of <block_name>  
-
-Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
-
-[* open learn modules for upcoming week how to video](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
-
-## Fix Learn Typos/Errors/Broken-links   
-[RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)  
-
-[GitHub gSchool](https://github.com/gSchool)
+[GitHub gSchool](https://github.com/gSchool)  (You can find the cohort LEARN links in the cohort hub)
 
 [RPP2 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
 
-[RPP2 Pairs Learn Link](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/07-pairs.md)
+[RPP3 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
 
 
 ### JUST ONE TIME, get access to gSchool Learn
 
-Follow the repo or the steps below (I hope)
+	Follow the repo or the steps below
 
-1. [Install Learn in terminal](https://github.com/gSchool/glearn-cli/blob/master/README.md)
+	1. [Install Learn in terminal](https://github.com/gSchool/glearn-cli/blob/master/README.md)
 
-```bash
-brew tap gSchool/learn
-brew install learn
-brew list # look for 'learn'
-learn set --api_token=<api token found in “API Token” tab under username in top right corner of Learn>
-```
-[Learn site API token generator](https://learn-2.galvanize.com/api_token)
+	```bash
+	brew tap gSchool/learn
+	brew install learn
+	brew list # look for 'learn'
+	learn set --api_token=<api token found in “API Token” tab under username in top right corner of Learn>
+	```
+	[Learn site API token generator](https://learn-2.galvanize.com/api_token)
 
-> If you see this error:
+	> If you see this error:
 
-> Error: The following directories are not writable by your user: /usr/local/bin. You should change the ownership of these directories to your user.
-* use the suggestion the terminal gives
-```bash
-sudo chown -R $(whoami) /usr/local/bin
-```
-* use brew doctor to find any warnings you might have with brew
+	> Error: The following directories are not writable by your user: /usr/local/bin. You should change the ownership of these directories to your user.
+	* use the suggestion the terminal gives
+	```bash
+	sudo chown -R $(whoami) /usr/local/bin
+	```
+	* use brew doctor to find any warnings you might have with brew
 
-**Create a directory to store all the Learn repos: Desktop/Galvanize/RPP2/LEARN**
+	**Create a directory to store all the Learn repos: Desktop/Galvanize/RPP2/LEARN**
 
-### For each Learn block, clone learn gSchool module into your Learn directory
-> if you have already cloned the repo,
-> - You don't need to re-clone the repo, just navigate in to repo
-> - REMEMBER TO PULL after navigating into repo
+	### For each Learn block, clone learn gSchool module into your Learn directory
+	> if you have already cloned the repo,
+	> - You don't need to re-clone the repo, just navigate in to repo
+	> - REMEMBER TO PULL after navigating into repo
 
-```bash
-cd Desktop/Galvanize/LEARN
-git clone https://github.com/gSchool/dsi-learn-clustering-methods.git # if not yet cloned
-cd dsi-learn-clustering-methods
-git pull origin RPP2  # git pull will not update all branches
-git checkout RPP2 
-code .
-```
-Make necessary changes in VSCode markdown file(s)
+	```bash
+	cd Desktop/Galvanize/LEARN
+	git clone https://github.com/gSchool/dsi-learn-clustering-methods.git # if not yet cloned
+	cd dsi-learn-clustering-methods
+	git pull origin RPP2  # git pull will not update all branches
+	git checkout RPP2 
+	code .
+	```
+	Make necessary changes in VSCode markdown file(s)
 
-[RPP2 solutions repo link](https://github.com/GalvanizeDataScience/solutions-rpp2)
+	Save changes
 
-Save changes
+	```bash
+	git status  # will  show the modified files
+	learn preview -o .  # opens a 'practice' Learn block to see repo after changes
+	git add .
+	git commit -m 'description of changes'
+	git push origin RPP2
+	```
 
-```bash
-git status  # will  show the modified files
-learn preview -o .  # opens a 'practice' Learn block to see repo after changes
-git add .
-git commit -m 'description of changes'
-git push origin RPP2
-```
 In Learn:
-1. **SET UP** tab
-2. **Repos** tab
-3. **<block_name>** block will have a green 'updates' oval
-4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
-5. Double check that the changes are working in the student facing Learn block.
+	1. **SET UP** tab
+	2. **Repos** tab
+	3. **<block_name>** block will have a green 'updates' oval
+	4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
+	5. Double check that the changes are working in the student facing Learn block.
 
-[* editing Learn (fix solutions link example)](https://drive.google.com/file/d/1n-1kg-IupQXr9SPQNdlOMcEk-H0r0mGz/view?usp=sharing)
+	[* editing Learn (fix solutions link example)](https://drive.google.com/file/d/1n-1kg-IupQXr9SPQNdlOMcEk-H0r0mGz/view?usp=sharing)
 
-
-## Weekly Slack Announcements
-- ### [due dates](https://docs.google.com/spreadsheets/d/1HxucDS629qxuQ1Jy0567M1yIHwIcAyquH5xWe5xL74c/edit#gid=0) for current assignments
-- ### reminder to submit assignments
-  - #### bold async assignment(s)
-  - #### italicize paired assignment(s)
-- ### notice of upcoming assessments
-- ### notice of upcoming case-study or capstone days  
-> ### check with PL and instructors for other announcements
 
 [Announcement Example Image](https://drive.google.com/file/d/1LzQ-3ANuL5Tuwv6pitsJpISPrPRVKRWg/view?usp=sharing)
 ______________
