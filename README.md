@@ -2,7 +2,7 @@
 
 [Cohort Hubs](#RPP2-Main-Hub)
  
-[Weekly Tasks](#Weekly-Tasks)
+[Daily & Weekly Tasks](#Daily-&-Weekly-Tasks)
 
 [All Class Days](#All-Class-Days) 
 
@@ -63,7 +63,28 @@ ______________
 
 # [RPP3 Classroom Link](https://zoom.us/j/4164223231)
 
-# Weekly Tasks 
+# Daily & Weekly Tasks 
+
+# Daily 
+- Take attendance (reach out to PL or student directly if they are not in class)
+- Start recording of class lecture OR open assessment in LEARN - make announcements when 30, 15, and 5 minutes remain)
+- Check to see if an assessment grading is needed - grade if needed and message the PL when the HUB spreadsheet has been updated
+- Check assignments due today and check late submissions from the previous week. Update assignment submission HUB. If a student has not submitted an assignment please complete ONE of the following:
+	- 1. Message the student and the PL asking why the student has not turned in an assignment. Use the following message:
+	- “...”
+	- 2. Contact the PL to reach out
+- Sat only: 
+	- Assign pair programming groups and assign a “scheduler” 2 weeks out 
+	- Check to see if your office hours are correct for the following 2 weeks
+	- Open the LEARN modules for the upcoming week
+	- Check next week’s schedule (spreadsheet & google calendar) following items for accuracy:
+		- (spreadsheet calendar should be most up to date)
+		- Assignment due dates
+		- Lecturers for accuracy
+		- Check that all recordings have been uploaded to spreadsheet (update if they have not been uploaded)
+	- **Send a slack message out at the end of class of assignments due, assessments, and Capstone proposal due dates coming up the following week (include dates) 
+
+
 
 ## Create pairs for any paired assignment 
 Simple code for random list of RPP2 students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
