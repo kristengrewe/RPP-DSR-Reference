@@ -112,9 +112,8 @@ ______________
 
 # Calendars
 
-## Checking Student Facing Calendars + Update Due Dates
-
-[RPP Full Main Calendar - Individual Cohort Tabs](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=0)
+## Cohort Spreadsheet Calendars 
+- [RPP Full Main Calendar - Individual Cohort Tabs](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=0)
 
 ## DSR Coverage Calendars: 
 - RPP2 DSR Google Calendar
@@ -124,8 +123,6 @@ ______________
 - [RPP2 Schedule](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=883812835)
 - RPP3 Schedule 
 
-
-[RPP2 Cohort Schedule Google Sheet](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=883812835)
  - Are dates and order of modules correct? (Alert PL to discrepancies)
  - Check for Async assignment to be included in announcements
 
