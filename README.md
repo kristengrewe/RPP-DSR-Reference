@@ -94,7 +94,7 @@ ______________
 > Create pairs for any paired assignment - Choose one person to be the “scheduler”
 > Refer to Cohort Hub Important Docs Tab for pairs google sheet (this sheet is student facing)
 
-##Example of simple code for random list of students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
+## Example of simple code for random list of students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
 	```python
 	import numpy as np
 	RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
