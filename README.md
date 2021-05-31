@@ -1,8 +1,6 @@
-# Table of Contents 
-
-[Cohort Hubs](#RPP2-Main-Hub)
+# Table of Contents
  
-[Daily & Weekly Tasks](#Daily-&-Weekly-Tasks)
+# [Daily & Weekly Tasks](#Daily-&-Weekly-Tasks)
 
 # [RPP2 Main Hub](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)
 
@@ -12,13 +10,15 @@
 
 # [RPP3 Classroom Link](https://zoom.us/j/4164223231) 
 
-[Help Desk](#Help-Desk)  
+# [Help Desk](#Help-Desk)  
 
-[Common Fixes](#Common-Fixes)   
+# [Common Fixes](#Common-Fixes)   
 
-[Tuesday Team Meeting](#Tuesday-Team-Meetings)
+# [Tuesday Team Meeting](#Tuesday-Team-Meetings)
 
-[Ultipro Stuff](#Ultipro-Stuff)
+# [Ultipro Stuff](#Ultipro-Stuff)
+
+______________
 
 How To Videos
 
@@ -113,16 +113,20 @@ Example of simple code for random list of students, which can be used to choose 
 
 	[* updating pairs how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
+______________
+
+Calendars
+
 ## Checking Student Facing Calendars + Update Due Dates
 
 [RPP Full Main Calendar - Individual Cohort Tabs](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=0)
 
-DSR Coverage Calendars 
+DSR Coverage Calendars: 
 - RPP2 DSR Google Calendar
 - RPP3 DSR Google Calendar 
 
 Cohort Google Calendars:
-- [RPP2 Schedule] (https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=883812835)
+- [RPP2 Schedule](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=883812835)
 - RPP3 Schedule 
 
 
@@ -130,8 +134,10 @@ Cohort Google Calendars:
  - Are dates and order of modules correct? (Alert PL to discrepancies)
  - Check for Async assignment to be included in announcements
 
+______________
+Assignments & Solutions
 
-Asignment Due Dates 
+Assignment Due Dates:
 	- In general, the due date is a week from the corresponding lecture.  
 	- Async assignments are due a week from that week's Saturday lecture.
 	- Paired assignments should be italicized
@@ -256,6 +262,8 @@ A one-class grace has bee the norm for RPP2. For example, if the assignment is d
 
 [* checking and updating assignment submissions how to video](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
 
+______________
+
 # Lecture Days   
 
 ## Sign into Zoom with cohort email
@@ -317,6 +325,8 @@ DO THIS EVERY TIME YOU ADD SOLUTIONS:
 7. git push
 
 [* add solutions to cohort's solutions repo how to video](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
+
+______________
 
 ## Daily Announcements  
 
