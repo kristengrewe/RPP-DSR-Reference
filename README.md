@@ -128,9 +128,7 @@ ______________
 ## Cohort Google Calendars:
 - [RPP2 Schedule](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=883812835)
 - RPP3 Schedule 
-
- - Are dates and order of modules correct? (Alert PL to discrepancies)
- - Check for Async assignment to be included in announcements
+	- Are dates and order of modules correct? (Alert PL to discrepancies)
 
 ______________
 # Assignments & Solutions
