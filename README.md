@@ -64,7 +64,7 @@ ______________
 	- “...”
 	- 2. Contact the PL to reach out
 ## Saturday only: 
-- [Assign pair programming] (#Create-pairs-for-any-paired-assignment) groups and assign a “scheduler” 2 weeks out 
+- [Assign pair programming](#Pair-Programming) groups and assign a “scheduler” 2 weeks out 
 - Check to see if your office hours are correct for the following 2 weeks
 - Open the LEARN modules for the upcoming week
 - Check next week’s schedule (spreadsheet & google calendar) following items for accuracy:
