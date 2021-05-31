@@ -1,8 +1,8 @@
 # Table of Contents 
 
-[RPP2 Main Hub](#RPP2-Main-Hub)
+[Cohort Hubs](#RPP2-Main-Hub)
  
-[Weekly Tasks](#Weekly-Tasks)
+[Daily & Weekly Tasks](#Daily-&-Weekly-Tasks)
 
 [All Class Days](#All-Class-Days) 
 
@@ -57,31 +57,53 @@ ______________
  
 # [RPP2 Main Hub](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)
 
+# [RPP3 Main Hub](https://docs.google.com/spreadsheets/d/1IaD-8F5I1AIN4wzXJIDOzI6LsZiR6gl3UTq4b-px9_M/edit#gid=231386871)
+
 # [RPP2 Classroom Link](https://zoom.us/my/rppdsi.jrs)
 
 # [RPP3 Classroom Link](https://zoom.us/j/4164223231)
 
-# Weekly Tasks 
+# Daily & Weekly Tasks 
 
-## Create pairs for any paired assignment 
-Simple code for random list of RPP2 students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
-```python
-import numpy as np
-RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
+# Daily 
+- Take attendance (reach out to PL or student directly if they are not in class)
+- Start recording of class lecture OR open assessment in LEARN - make announcements when 30, 15, and 5 minutes remain)
+- Check to see if an assessment grading is needed - grade if needed and message the PL when the HUB spreadsheet has been updated
+- Check assignments due today and check late submissions from the previous week. Update assignment submission HUB. If a student has not submitted an assignment please complete ONE of the following:
+	- 1. Message the student and the PL asking why the student has not turned in an assignment. Use the following message:
+	- “...”
+	- 2. Contact the PL to reach out
+- Sat only: 
+	- [Assign pair programming] (#Create-pairs-for-any-paired-assignment) groups and assign a “scheduler” 2 weeks out 
+	- Check to see if your office hours are correct for the following 2 weeks
+	- Open the LEARN modules for the upcoming week
+	- Check next week’s schedule (spreadsheet & google calendar) following items for accuracy:
+		- (spreadsheet calendar should be most up to date)
+		- Assignment due dates
+		- Lecturers for accuracy
+		- Check that all recordings have been uploaded to spreadsheet (update if they have not been uploaded)
+	- **Send a slack message out at the end of class of assignments due, assessments, and Capstone proposal due dates coming up the following week (include dates) 
+
+
+
+## Pair Programming
+	Simple code for random list of RPP2 students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
+	```python
+	import numpy as np
+	RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
                  'Sean_PST', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
                  'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
 
-np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
-```
-  **challenges**  
-    - Sometimes students may express that they don't want to work with another student. Different instructors handle this differently, posting the proposed pairs/groups to the team allows feedback and maybe adjustments.  
-    - Different time zones and work/family schedules can make pair programming difficult for part-time cohorts. 
+	np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
+	```
+	
+  	**challenges**  
+    	- Sometimes students may express that they don't want to work with another student. Different instructors handle this differently, 	posting the proposed pairs/groups to the team allows feedback and maybe adjustments.  
+    	- Different time zones and work/family schedules can make pair programming difficult for part-time cohorts. 
     
-    Ask instructor regarding:   
-
-      - pairing based on time zones or schedules (alternatives to random pairings) 
-
-      - due date extensions with prior approval
+    	Ask instructor regarding:   
+      	- pairing based on time zones or schedules (alternatives to random pairings) 
+      	- due date extensions with prior approval
 
 ## Post Pairs
 
@@ -97,9 +119,7 @@ After creating pairs and getting feedback on adjustments, updating this google s
 
 ## Check Student Facing Calendars + Update Due Dates
 
-[RPP2 Main Calendar & Cohort Schedule Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/06-calendar.md)
-
-This is updated, get new link from Kristen!
+[RPP Full Main Calendar - Individual Cohort Tabs](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=0)
 
 [RPP2 Main Calendar Google Sheet](https://calendar.google.com/calendar/u/0/r/week/2021/5/30)
 - Check DSR Coverage
