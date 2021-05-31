@@ -141,7 +141,7 @@ ______________
 3. <Assignment_name> use down arrow   
 4. <Assignment_Submission> small circle indicates 'submitted'
 
-## After checking submissions in LEARN, update Assignment Submission Sheet in HUB 
+### After checking submissions in LEARN, update Assignment Submission Sheet in HUB 
 
 > A one-class grace has bee the norm. For example, if the assignment is due on Tuesday, checking for that assignment submission + updating the google sheet on Thursday worked well. At the discretion of the instructor/PL, students may ask for an extension to the due date.
 
