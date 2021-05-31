@@ -89,7 +89,7 @@ ______________
 	
 ______________
 
-## Pair Programming
+# Pair Programming
 Create pairs for any paired assignment - Choose one person to be the “scheduler”
 Refer to Cohort Hub Important Docs Tab for pairs google sheet (this sheet is student facing)
 
@@ -115,17 +115,17 @@ Example of simple code for random list of students, which can be used to choose 
 
 ______________
 
-## Calendars
+# Calendars
 
-# Checking Student Facing Calendars + Update Due Dates
+## Checking Student Facing Calendars + Update Due Dates
 
 [RPP Full Main Calendar - Individual Cohort Tabs](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=0)
 
-# DSR Coverage Calendars: 
+## DSR Coverage Calendars: 
 - RPP2 DSR Google Calendar
 - RPP3 DSR Google Calendar 
 
-# Cohort Google Calendars:
+## Cohort Google Calendars:
 - [RPP2 Schedule](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=883812835)
 - RPP3 Schedule 
 
@@ -135,9 +135,9 @@ ______________
  - Check for Async assignment to be included in announcements
 
 ______________
-## Assignments & Solutions
+# Assignments & Solutions
 
-Assignment Due Dates:
+## Assignment Due Dates:
 	- In general, the due date is a week from the corresponding lecture.  
 	- Async assignments are due a week from that week's Saturday lecture.
 	- Paired assignments should be italicized
@@ -160,7 +160,7 @@ Assignment Due Dates:
 [RPP3 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
 
 
-# JUST ONE TIME, get access to gSchool Learn
+## JUST ONE TIME, get access to gSchool Learn
 
 	Follow the repo or the steps below
 
@@ -223,16 +223,16 @@ In Learn:
 [Announcement Example Image](https://drive.google.com/file/d/1LzQ-3ANuL5Tuwv6pitsJpISPrPRVKRWg/view?usp=sharing)
 ______________
 
-## Attendance
+# Attendance
 
-# Attendance Policy (RPP3 and after)
+## Attendance Policy (RPP3 and after)
 - T/Th classes are 1 point
 - Sat classes are 3 points
 - Maximum of 15 points before student is expelled
 - One time extension is possible 
 * Please review all the details with PL
 
-# Attendance Policy (RPPT1 & RPP2)
+## Attendance Policy (RPPT1 & RPP2)
   - Within the Attendance tab the process is very self-explanatory.  
   - Holding up fingers to show the instructor how many students we are waiting on has been effective in RPP2.
 
