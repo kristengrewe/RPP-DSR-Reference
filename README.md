@@ -115,17 +115,17 @@ Example of simple code for random list of students, which can be used to choose 
 
 ______________
 
-Calendars
+## Calendars
 
-## Checking Student Facing Calendars + Update Due Dates
+# Checking Student Facing Calendars + Update Due Dates
 
 [RPP Full Main Calendar - Individual Cohort Tabs](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=0)
 
-DSR Coverage Calendars: 
+# DSR Coverage Calendars: 
 - RPP2 DSR Google Calendar
 - RPP3 DSR Google Calendar 
 
-Cohort Google Calendars:
+# Cohort Google Calendars:
 - [RPP2 Schedule](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=883812835)
 - RPP3 Schedule 
 
@@ -135,7 +135,7 @@ Cohort Google Calendars:
  - Check for Async assignment to be included in announcements
 
 ______________
-Assignments & Solutions
+## Assignments & Solutions
 
 Assignment Due Dates:
 	- In general, the due date is a week from the corresponding lecture.  
@@ -160,7 +160,7 @@ Assignment Due Dates:
 [RPP3 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
 
 
-### JUST ONE TIME, get access to gSchool Learn
+# JUST ONE TIME, get access to gSchool Learn
 
 	Follow the repo or the steps below
 
@@ -211,42 +211,32 @@ Assignment Due Dates:
 	```
 
 In Learn:
-	1. **SET UP** tab
-	2. **Repos** tab
-	3. **<block_name>** block will have a green 'updates' oval
-	4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
-	5. Double check that the changes are working in the student facing Learn block.
+1. **SET UP** tab
+2. **Repos** tab
+3. **<block_name>** block will have a green 'updates' oval
+4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
+5. Double check that the changes are working in the student facing Learn block.
 
-	[* editing Learn (fix solutions link example)](https://drive.google.com/file/d/1n-1kg-IupQXr9SPQNdlOMcEk-H0r0mGz/view?usp=sharing)
+[* editing Learn (fix solutions link example)](https://drive.google.com/file/d/1n-1kg-IupQXr9SPQNdlOMcEk-H0r0mGz/view?usp=sharing)
 
 
 [Announcement Example Image](https://drive.google.com/file/d/1LzQ-3ANuL5Tuwv6pitsJpISPrPRVKRWg/view?usp=sharing)
 ______________
 
-# All Class Days  
 ## Attendance
 
-Link to HUB doc Attendance tab:
-[RPP2 Attendance](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=373849433)  
-
-> RPP2 has a different attendance policy than future cohorts. 
-
-> RPP3 
+# Attendance Policy (RPP3 and after)
 - T/Th classes are 1 point
 - Sat classes are 3 points
 - Maximum of 15 points before student is expelled
 - One time extension is possible 
 * Please review all the details with PL
 
-
+# Attendance Policy (RPPT1 & RPP2)
   - Within the Attendance tab the process is very self-explanatory.  
   - Holding up fingers to show the instructor how many students we are waiting on has been effective in RPP2.
 
-
-## Create & recreate Zoom breakout rooms as needed  
-- Automatically assign rooms
-- Manually assign rooms
-- Allow participants to choose rooms
+______________
 
 ## Assignment Submissions
 
@@ -686,6 +676,8 @@ _________________
 ## Tuesday Team Meetings 
 [Asana](https://app.asana.com/0/home/1199688949945059)
 
+______________
+	
 ## Ultipro Stuff
 1. Open incognito window (command+shift+n)
 2. Open outlook (make sure you are signed in with k12 email)
@@ -700,9 +692,3 @@ _________________
 10. Deal with some weird time consuming ultipro thing 
 
 [* clock in/out + timesheet changes video](https://drive.google.com/file/d/1YSCi5f5xv8xA5YE6Mao7llonSldUH8J8/view?usp=sharing)
-
-
-
-## Onboarding Stuff
-Background check  
-I9  
