@@ -1,4 +1,4 @@
-# [Daily & Weekly Tasks](#Daily-&-Weekly-Tasks)
+# Quick Links 
 
 # [RPP2 Main Hub](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)
 
@@ -7,6 +7,12 @@
 # [RPP2 Classroom Link](https://zoom.us/my/rppdsi.jrs)
 
 # [RPP3 Classroom Link](https://zoom.us/j/4164223231) 
+
+______________
+
+#Table of Contents for this Repo
+
+# [Daily & Weekly Tasks](#Daily-&-Weekly-Tasks)
 
 # [Help Desk](#Help-Desk)  
 
