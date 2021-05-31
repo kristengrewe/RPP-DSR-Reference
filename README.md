@@ -266,13 +266,14 @@ ______________
 
 > [* granting access to assignment repo how to video](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
 
-## Add Solutions to Cohort's Solutions Repo
+> ### Add Solutions to Cohort's Solutions Repo
 
-[Galvanize Main Solutions Repo](https://github.com/GalvanizeDataScience/solutions)
+> [Galvanize Main Solutions Repo](https://github.com/GalvanizeDataScience/solutions)
 
-^All the solution directories are here^
+> ^All the solution directories are here^
 
-[RPP2 Solutions Repo](https://github.com/GalvanizeDataScience/solutions-rpp2)
+- [RPP2 Solutions Repo](https://github.com/GalvanizeDataScience/solutions-rpp2)
+- [RPP3 Solutions Repo] *add link 
 
 
 ### ONLY DO THIS PART THE FIRST TIME YOU ADD SOLUTIONS:
@@ -338,9 +339,9 @@ ______________
 
 # Assessment Days 
 
-## Opening Assessment in Learn 
+## Opening Assessment in LEARN 
 
-> TWO eyeballs to click!
+> **TWO eyeballs to click!**
 
 1. **SET UP**
 2. **Content** tab
