@@ -1,5 +1,3 @@
-# Table of Contents
- 
 # [Daily & Weekly Tasks](#Daily-&-Weekly-Tasks)
 
 # [RPP2 Main Hub](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)
@@ -51,7 +49,7 @@ ______________
 
 # Daily & Weekly Tasks 
 
-# Daily 
+## Everyday:
 - Take attendance (reach out to PL or student directly if they are not in class)
 - Start recording of class lecture OR open assessment in LEARN - make announcements when 30, 15, and 5 minutes remain)
 - Check to see if an assessment grading is needed - grade if needed and message the PL when the HUB spreadsheet has been updated
@@ -59,21 +57,18 @@ ______________
 	- 1. Message the student and the PL asking why the student has not turned in an assignment. Use the following message:
 	- “...”
 	- 2. Contact the PL to reach out
-- Sat only: 
-	- [Assign pair programming] (#Create-pairs-for-any-paired-assignment) groups and assign a “scheduler” 2 weeks out 
-	- Check to see if your office hours are correct for the following 2 weeks
-	- Open the LEARN modules for the upcoming week
-	- Check next week’s schedule (spreadsheet & google calendar) following items for accuracy:
-		- (spreadsheet calendar should be most up to date)
-		- Check lecture, retro, assessment, case-study, capstones, break dates
-		- Check that all recordings have been uploaded to spreadsheet (update if they have not been uploaded)
-	- **Send a slack message out at the end of class of assignments due (including async), assessments, and Capstone proposal due dates coming up the following week (include dates)
-		- bold async assignment(s)
-		- italicize paired assignment(s)
-		- Announcement Example Image
- 
-
-	[All Class Days](#All-Class-Days) 
+## Saturday only: 
+- [Assign pair programming] (#Create-pairs-for-any-paired-assignment) groups and assign a “scheduler” 2 weeks out 
+- Check to see if your office hours are correct for the following 2 weeks
+- Open the LEARN modules for the upcoming week
+- Check next week’s schedule (spreadsheet & google calendar) following items for accuracy:
+	- (spreadsheet calendar should be most up to date)
+	- Check lecture, retro, assessment, case-study, capstones, break dates
+	- Check that all recordings have been uploaded to spreadsheet (update if they have not been uploaded)
+- **Send a slack message out at the end of class of assignments due (including async), assessments, and Capstone proposal due dates coming up the following week (include dates)
+	- bold async assignment(s)
+	- italicize paired assignment(s)
+	- Announcement Example Image
 
 	[Lecture Days](#Lecture-Days)  
 
@@ -138,11 +133,11 @@ ______________
 # Assignments & Solutions
 
 ## Assignment Due Dates:
-	- In general, the due date is a week from the corresponding lecture.  
-	- Async assignments are due a week from that week's Saturday lecture.
-	- Paired assignments should be italicized
+- In general, the due date is a week from the corresponding lecture.  
+- Async assignments are due a week from that week's Saturday lecture.
+- Paired assignments should be italicized
 
-	[* updating due dates how to video](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
+> [* updating due dates how to video](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
 
 ## How to open the Learn Modules for Upcoming Week
 	1. **SET UP** tab
@@ -151,13 +146,14 @@ ______________
 	4. click grey eyeball to right of <block_name>  
 	Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
 
-	[* open learn modules for upcoming week how to video](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
+> [* open learn modules for upcoming week how to video](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
 
-[GitHub gSchool](https://github.com/gSchool)  (You can find the cohort LEARN links in the cohort hub)
 
-[RPP2 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
+> [GitHub gSchool](https://github.com/gSchool)  (You can find the cohort LEARN links in the cohort hub)
 
-[RPP3 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
+> [RPP2 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
+
+> [RPP3 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
 
 
 ## JUST ONE TIME, get access to gSchool Learn
@@ -233,8 +229,8 @@ ______________
 * Please review all the details with PL
 
 ## Attendance Policy (RPPT1 & RPP2)
-  - Within the Attendance tab the process is very self-explanatory.  
-  - Holding up fingers to show the instructor how many students we are waiting on has been effective in RPP2.
+- Within the Attendance tab the process is very self-explanatory.  
+- Holding up fingers to show the instructor how many students we are waiting on has been effective in RPP2.
 
 ______________
 
@@ -248,29 +244,20 @@ ______________
 
 ### [RPP2 Update Assignment Submission Sheet](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=1371301276)  
 
-A one-class grace has bee the norm for RPP2. For example, if the assignment is due on Tuesday, checking for that assignment submission + updating the google sheet on Thursday worked well. At the discretion of the instructor/PL, students may ask for an extension to the due date.
+A one-class grace has bee the norm. For example, if the assignment is due on Tuesday, checking for that assignment submission + updating the google sheet on Thursday worked well. At the discretion of the instructor/PL, students may ask for an extension to the due date.
 
 [* checking and updating assignment submissions how to video](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
 
 ______________
 
-# Lecture Days   
-
-## Sign into Zoom with cohort email
-- Permission to open the classroom
-- Permission to record
-- Permission to make breakout rooms 
-- Permission to join breakout rooms
-- Permission to assign and move students to breakout rooms
-- Change your Zoom name to '<your_name> DSR'
+# Lecture Days
 
 ## Record Lecture
-> Every cohort needs a Tony :)  All the sticky notes & alarms in the world aren't as effective as multiple people checking that the lectures is being recorded. Let the cohort know you appreciate their help.
+> All the sticky notes & alarms in the world aren't as effective as multiple people checking that the lectures is being recorded. Let the cohort know you appreciate their help.
 
-## RPP2 Provide Access to Assignment Repo
+## Provide Access to Assignment Repo
 
 > Open at the beginning of class, **not prior to lecture**
-
 1. Settings
 2. Manage Access
 3. Enter and Confirm your password
@@ -278,9 +265,9 @@ ______________
 5. For RPP2, add **GalvanizeDataScience/21-02-ds-rpp**
 6. For RPP2, Confirm: Add GalvanizeDataScience/21-02-ds-rpp
 
-[* granting access to assignment repo how to video](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
+> [* granting access to assignment repo how to video](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
 
-## RPP2 Add Solutions to Cohort's Solutions Repo
+## Add Solutions to Cohort's Solutions Repo
 
 [Galvanize Main Solutions Repo](https://github.com/GalvanizeDataScience/solutions)
 
@@ -288,86 +275,73 @@ ______________
 
 [RPP2 Solutions Repo](https://github.com/GalvanizeDataScience/solutions-rpp2)
 
-^Only the solution directories that have been added for RPP2 are here^
 
-> RPP2 opens solutions with assignment.   
+### ONLY DO THIS PART THE FIRST TIME YOU ADD SOLUTIONS:
 
-> This will not be the case for RPP3. RPP3 solutions will be posted on the due date (I think).
+	RPP2 example: 
 
-ONLY DO THIS PART THE FIRST TIME YOU ADD SOLUTIONS:
+	1. git clone https://github.com/GalvanizeDataScience/solutions-rpp2.git
+	2. cd into solutions repo
+	3. git remote add solutions https://github.com/GalvanizeDataScience/solutions.git
+	4. git fetch solutions main
 
-RPP2 example: 
+	DO THIS EVERY TIME YOU ADD SOLUTIONS:
 
-1. git clone https://github.com/GalvanizeDataScience/solutions-rpp2.git
-2. cd into solutions repo
-3. git remote add solutions https://github.com/GalvanizeDataScience/solutions.git
-4. git fetch solutions main
+	1. cd into solutions repo
+	2. git pull
+	3. git fetch solutions main
+	4. git checkout solutions/main perceptrons
+	> using perceptrons as an example
+	5. git add .
+	6. git commit -m 'add perceptrons solutions'
+	7. git push
 
-DO THIS EVERY TIME YOU ADD SOLUTIONS:
-
-1. cd into solutions repo
-2. git pull
-3. git fetch solutions main
-4. git checkout solutions/main perceptrons
-> using perceptrons as an example
-5. git add .
-6. git commit -m 'add perceptrons solutions'
-7. git push
-
-[* add solutions to cohort's solutions repo how to video](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
+> [* add solutions to cohort's solutions repo how to video](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
 
 ______________
 
-## Daily Announcements  
-
-Check-in with Instructor & PL prior to class regarding announcements 
-
 ## Post Lecture Recording After it Processes
 
-[RPP2 Zoom Account](https://zoom.us/)
-
-- edit recording name to include: *instructor, topic(s), date*
-- check that no passcode is required
+	- edit recording name to include: *instructor, topic(s), date*
+	- check that no passcode is required
 
 
-In a terminal, from the learn repo <dsi-learn-block>
-```bash
-git pull
-git checkout RPP2
-git pull (do we need to re-pull from each branch?)
-code .
-```
-In VSCode: 
-- Add lecture recording link.
+	In a terminal, from the learn repo <dsi-learn-block>
+	```bash
+	git pull
+	git checkout RPP2
+	git pull (do we need to re-pull from each branch?)
+	code .
+	```
+	In VSCode: 
+	- Add lecture recording link.
 
-- Save changes.
+	- Save changes.
 
 Back in terminal:
 
-```bash
-learn preview -o . #the -o opens a preview Learn block to see changes
-git add .
-git commit -m 'add lecture recording'
-git push origin RPP2
-```
+	```bash
+	learn preview -o . #the -o opens a preview Learn block to see changes
+	git add .
+	git commit -m 'add lecture recording'
+	git push origin RPP2
+	```
 
-From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
+	1. **SET UP** tab
+	2. **Repos** tab
+	3. **<block_name>** block will have a green 'updates' oval
+	4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
+	5. Double check that the changes are working in the student facing Learn block.
 
-1. **SET UP** tab
-2. **Repos** tab
-3. **<block_name>** block will have a green 'updates' oval
-4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
-5. Double check that the changes are working in the student facing Learn block.
+> [* add Zoom lecture recording to Learn how to video](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
 
-[* add Zoom lecture recording to Learn how to video](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
+______________
 
 # Assessment Days 
 
 ## Opening Assessment in Learn 
 
-TWO eyeballs to click!
-
-From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
+> TWO eyeballs to click!
 
 1. **SET UP**
 2. **Content** tab
@@ -376,7 +350,7 @@ From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 5. click dropdown arrow to left of **DSI Assessment #**
 6. click second eyeball
 
-[* opening assessments in Learn how to video](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
+> [* opening assessments in Learn how to video](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
 
 ## Timing Assessment 
 - 60 minute strict time limit
@@ -390,15 +364,15 @@ From [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
 
 ## Adding Assessment Solutions to the Solutions repo
 
-```bash
-cd Desktop/Galvanize/RPP2/solutions-rpp2 # navigate into solutions repo 
-git pull
-git fetch solutions main
-git checkout solutions/main assessments/assessment-0 # using 0 as an example
-git add .
-git commit -m 'add assessment-0 solutions'
-git push
-```
+	```bash
+	cd Desktop/Galvanize/RPP2/solutions-rpp2 # navigate into solutions repo 
+	git pull
+	git fetch solutions main
+	git checkout solutions/main assessments/assessment-0 # using 0 as an example
+	git add .
+	git commit -m 'add assessment-0 solutions'
+	git push
+	```
 
 [* add assessment solutions to cohort's solutions repo how to video](https://drive.google.com/file/d/1c5u2M1G9GcI6baEgayPEBUhRXYw9thLg/view?usp=sharing)
 
@@ -421,18 +395,19 @@ Assessment statistics will populate after inputs are complete, which can be used
 
 [* editing learn to add assessment statistics & solutions link how to video](https://drive.google.com/file/d/1dNWeRkPHVlmTwg8TEfPE3YWnp4Hytu1U/view?usp=sharing)
 
+______________
 
 # Case Study Days  
 ## Generate Groups of 3/4 students  
 Simple code for random list of RPP2 students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
-```python
-import numpy as np
-RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
-                 'Sean_PST?', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
-                 'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
+	```python
+	import numpy as np
+	RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
+			 'Sean_PST?', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
+			 'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
 
-np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
-```
+	np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
+	```
 
 ## Assign breakout rooms 
 
@@ -454,32 +429,29 @@ np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 
 3. Slide deck/presentation tool started  
 
-## Presentations
+______________
 
 # Capstone Days    
 
 ## Manually Assign breakout rooms 
 
 ## Stand-ups
-[RPP2 Stand-ups Sheet](https://docs.google.com/spreadsheets/d/1lztQRmiV1DQrzRyrgY0Lc_VqVFRYh7hXf0kuqDLs66k/edit#gid=0) 
+> [RPP2 Stand-ups Sheet](https://docs.google.com/spreadsheets/d/1lztQRmiV1DQrzRyrgY0Lc_VqVFRYh7hXf0kuqDLs66k/edit#gid=0) 
 Check:
 1. Well defined MVP
 2. Cohesive, narrow Story
 3. GitHub repo + README + Slide Deck started
-Elevator Pitch (30 second engaging overview) 
-Follow-up on meeting goals from last stand-up
-Goals for today
-ABC always be committing
-  
-## Presentations
-[RPP2 Presentation Sheet](https://docs.google.com/spreadsheets/d/1lztQRmiV1DQrzRyrgY0Lc_VqVFRYh7hXf0kuqDLs66k/edit#gid=0)
 
+- Elevator Pitch (30 second engaging overview) 
+- Follow-up on meeting goals from last stand-up
+- Goals for today
+- ABC always be committing
 
-# Retro Days  
+______________
 
-## [RPP2 Retro](https://drive.google.com/drive/u/2/folders/1LC2jRkS-K0JrgN7rCHQiBcwpk-GR7YU1) support as directed by PL
+# Retro Days 
 
-## Kudos from DSRs after student's are done
+______________
 
 # Career Services Days  
 
@@ -487,34 +459,27 @@ ABC always be committing
 
 ## Appropriate time for DSRs to turn off camera and complete other [tasks](#Weekly-Tasks)
 
-## Post CSM presentation
-
-Temporarily CSM resources will be stored in 
-[Important Information > Career Services Videos](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/10-career-service-videos.md) 
-
-CSM Learn block is being created.
-
-## Post [CSM recording](https://zoom.us/) after it processes 
+## Post CSM recording after it processes 
 - edit recording name to include: *instructor, topic(s), date*
 - check that no passcode is required
    
-```bash
-cd dsi-learn-welcome-template
-git pull  
-git checkout RPP2 
-git pull  
-code .
-```
+	```bash
+	cd dsi-learn-welcome-template
+	git pull  
+	git checkout RPP2 
+	git pull  
+	code .
+	```
 Add zoom link in career services videos markdown file in VSCode
 
 Save changes
 
-```bash
-learn preview -o .
-git add .
-git commit -m 'added CSM video'
-git push origin RPP2
-```
+	```bash
+	learn preview -o .
+	git add .
+	git commit -m 'added CSM video'
+	git push origin RPP2
+	```
 In Learn:
 1. **SET UP** tab
 2. **Repos** tab
@@ -522,23 +487,25 @@ In Learn:
 4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
 5. Double check that the changes are working in the student facing Learn block.
 
-[* add Zoom lecture recording to Learn how to video](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
+> [* add Zoom lecture recording to Learn how to video](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
 
 _______________
 
 # Help Desk  
 Encourage students to use the assignments channel to troubleshoot problems. Teach students to fish. The goal is helping the student find the answer, not providing the answer.
 
+_______________
+
 # Common-Fixes
 
 ## Docker  
 
-Ubuntu users may need to use sudo before docker commands
-https://stackoverflow.com/questions/48957195/how-to-fix-docker-got-permission-denied-issue
+> Ubuntu users may need to use sudo before docker commands
+> https://stackoverflow.com/questions/48957195/how-to-fix-docker-got-permission-denied-issue
 
 
-If you do a git command with an open docker container, you may have to stop the container in order for the updates to show up.
-https://github.com/moby/moby/issues/15793#issuecomment-135411504
+> If you do a git command with an open docker container, you may have to stop the container in order for the updates to show up.
+> https://github.com/moby/moby/issues/15793#issuecomment-135411504
 
 
 - ### sparkbook
