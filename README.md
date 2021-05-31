@@ -1,6 +1,6 @@
 # Table of Contents 
 
-[RPP2 Main Hub](#RPP2-Main-Hub)
+[Cohort Hubs](#RPP2-Main-Hub)
  
 [Weekly Tasks](#Weekly-Tasks)
 
@@ -57,6 +57,8 @@ ______________
  
 # [RPP2 Main Hub](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)
 
+# [RPP3 Main Hub](https://docs.google.com/spreadsheets/d/1IaD-8F5I1AIN4wzXJIDOzI6LsZiR6gl3UTq4b-px9_M/edit#gid=231386871)
+
 # [RPP2 Classroom Link](https://zoom.us/my/rppdsi.jrs)
 
 # [RPP3 Classroom Link](https://zoom.us/j/4164223231)
@@ -97,9 +99,7 @@ After creating pairs and getting feedback on adjustments, updating this google s
 
 ## Check Student Facing Calendars + Update Due Dates
 
-[RPP2 Main Calendar & Cohort Schedule Learn](https://learn-2.galvanize.com/cohorts/2432/blocks/824/content_files/01-subject/06-calendar.md)
-
-This is updated, get new link from Kristen!
+[RPP Full Main Calendar - Individual Cohort Tabs](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=0)
 
 [RPP2 Main Calendar Google Sheet](https://calendar.google.com/calendar/u/0/r/week/2021/5/30)
 - Check DSR Coverage
