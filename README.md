@@ -8,6 +8,10 @@
 
 > ## [RPP3 Classroom Link](https://zoom.us/j/4164223231) 
 
+> ## [RPP2 LEARN Link](https://learn-2.galvanize.com/cohorts/2432) 
+
+> ## [RPP3 LEARN Link](https://learn-2.galvanize.com/cohorts/2679) 
+
 ______________
 
 # Table of Contents for this Repo
@@ -69,25 +73,30 @@ ______________
 # Daily & Weekly Tasks 
 
 ## Everyday:
-- Take attendance (reach out to PL or student directly if they are not in class)
-- Start recording of class lecture OR open assessment in LEARN - make announcements when 30, 15, and 5 minutes remain)
-- Check to see if an assessment grading is needed - grade if needed and message the PL when the HUB spreadsheet has been updated
+- Take attendance (*If the student is not in class, reach out to PL or the student directly)
+- Remember to RECORD lectures
+- Open LEARN modules, assessments, and assignments for the day
+- Check to see if an assessment grading is needed - grade and message the PL when the HUB spreadsheet has been updated
 - Check assignments due today and check late submissions from the previous week. Update assignment submission HUB. If a student has not submitted an assignment please complete ONE of the following:
 	- 1. Message the student and the PL asking why the student has not turned in an assignment. Use the following message:
-	- “...”
+	- “...” (Kristen to fill in messaging)
+	- OR
 	- 2. Contact the PL to reach out
-## Saturday only: 
-- [Assign pair programming](#Pair-Programming) groups and assign a “scheduler” 2 weeks out 
-- Check to see if your office hours are correct for the following 2 weeks
-- Open the LEARN modules for the upcoming week
-- Check next week’s schedule (spreadsheet & google calendar) following items for accuracy:
-	- (spreadsheet calendar should be most up to date)
-	- Check lecture, retro, assessment, case-study, capstones, break dates
-	- Check that all recordings have been uploaded to spreadsheet (update if they have not been uploaded)
+- *Check non-lecture day links for additional instructions
+
 - **Send a slack message out at the end of class of assignments due (including async), assessments, and Capstone proposal due dates coming up the following week (include dates)
 	- bold async assignment(s)
 	- italicize paired assignment(s)
 	- Announcement Example Image
+
+## Saturday only: 
+- [Assign pair programming](#Pair-Programming) groups and assign a “scheduler” 2 weeks out 
+- Check to see if your [office hours](##DSR-Coverage-Calendars) are correct for the following 2 weeks
+- Open the needed LEARN modules for the upcoming week
+- Check next week’s schedule ([spreadsheet](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=0) & [google calendar](##Cohort-Google-Calendars)) following items for accuracy:
+	- (spreadsheet calendar should be most up to date)
+	- Check lecture, retro, assessment, case-study, capstones, break dates
+	- Check that all recordings have been uploaded to spreadsheet (update if they have not been uploaded)
 
 	[Lecture Days](#Lecture-Days)  
 
@@ -135,20 +144,21 @@ ______________
 - [RPP Full Main Calendar - Individual Cohort Tabs](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=0)
 
 ## DSR Coverage Calendars: 
-- RPP2 DSR Google Calendar
-- RPP3 DSR Google Calendar 
+- [RPP2 DSR Google Calendar](https://calendar.google.com/calendar/embed?src=c_pa4h4gm1ip6er94u2gt20q7h7o%40group.calendar.google.com&ctz=America%2FChicago)
+- [RPP3 DSR Google Calendar](https://calendar.google.com/calendar/embed?src=c_j838vkh4d69bb0s5kvbtoovfcg%40group.calendar.google.com&ctz=America%2FChicago) 
 
 ## Cohort Google Calendars:
 - [RPP2 Schedule](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=883812835)
-- RPP3 Schedule 
-	- Are dates and order of modules correct? (Alert PL to discrepancies)
+- [RPP3 Schedule](https://calendar.google.com/calendar/embed?src=c_gki3tdciq14d70e9uuplvnueno%40group.calendar.google.com&ctz=America%2FChicago)
+
+	- *Are dates and order of modules correct? (Alert PL to discrepancies)
 
 ______________
 # Assignments & Solutions
 
 ## Assignment Submissions
 
-### Checking Assignment Submissions in Learn
+### Checking Assignment Submissions in LEARN
 1. **UNIT PROGRESS** tab
 2. **<block_name>** use down arrow
 3. <Assignment_name> use down arrow   
@@ -167,7 +177,7 @@ ______________
 
 > [* updating due dates how to video](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
 
-## How to open the Learn Modules for Upcoming Week
+## How to open the LEARN Modules for Upcoming Week
 	1. **SET UP** tab
 	2. **Content** tab
 	3. **<block_name>** block
@@ -177,7 +187,7 @@ ______________
 > [* open learn modules for upcoming week how to video](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
 
 
-> [GitHub gSchool](https://github.com/gSchool)  (You can find the cohort LEARN links in the cohort hub)
+> [GitHub gSchool](https://github.com/gSchool)  *(You can find the cohort LEARN links at the top of this Repo or in the cohort hub)
 
 > [RPP2 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
 
@@ -274,8 +284,8 @@ ______________
 2. Manage Access
 3. Enter and Confirm your password
 4. Invite teams or people (READ Access)
-5. For RPP2, add **GalvanizeDataScience/21-02-ds-rpp**
-6. For RPP2, Confirm: Add GalvanizeDataScience/21-02-ds-rpp
+5. *For RPP2, add **GalvanizeDataScience/21-02-ds-rpp**
+6. *For RPP2, Confirm: Add GalvanizeDataScience/21-02-ds-rpp
 
 > [* granting access to assignment repo how to video](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
 
@@ -391,13 +401,14 @@ ______________
 
 
 ## Grading Assessments
-- ### In Learn  
-[RPP2 Learn Assessment 5](https://learn-2.galvanize.com/cohorts/2432/blocks/115/content_files/assessment-5.md?assessment=true)
+- ### In LEARN  
+> - You can find the cohort LEARN links at the top of this Repo or in the cohort hub
 
 - ### In Hub (2 places to input grades)
-[RPP2 Assessment point Google sheet](https://docs.google.com/spreadsheets/d/1Lnw2u4Kuyqd86-qhAc_RTMejsb9QslhzagZSniIlZZA/edit#gid=1452309963)  
-
-[RPP2 Assessment results Google sheet](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=341773588)
+1. You can find the cohort HUB links at the top of this Repo 
+2. Then go to "Assessments" Tab
+3. In the top left corner you will find a link to the Assessment Full Grading Tracking Doc 
+4. Update the Full Grading Tracking Doc first and then in the assessments tab
 
 [* grading assessments how to video]()
 
@@ -412,7 +423,8 @@ ______________
 
 # Case Study Days  
 ## Generate Groups of 3/4 students  
-Simple code for random list of RPP2 students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
+> Simple code for random list of RPP2 students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
+	
 	```python
 	import numpy as np
 	RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
@@ -428,17 +440,17 @@ Simple code for random list of RPP2 students, which can be used to choose pairs,
 
 1. MVP plan
 
-- use MVP+, MVP++, future work to handle overly optimistic plans
+> - use MVP+, MVP++, future work to handle overly optimistic plans
 
-- plan should include hypothetic audience
+> - plan should include hypothetic audience
 
 2. Github repo  
->forked by student A  
->cloned from student A by other team members 
+> forked by student A  
+> cloned from student A by other team members 
 
 - [Ryan & Heather example video](https://zoom.us/rec/share/WYhK0DE1ZBs4lvN33JDCp3eMHl7QTycVjlaRXbWCgaXcVvwJ8CBzsrVFqjvMln1T.oETxz6XDF0QB1LuA?startTime=1616691949000)
     
-- suggest VSCode Live Share for README.md  
+> - suggest VSCode Live Share for README.md  
 
 3. Slide deck/presentation tool started  
 
@@ -462,15 +474,11 @@ Check:
 
 ______________
 
-# Retro Days 
-
-______________
-
 # Career Services Days  
 
 ## Record with permission from CSM
 
-## Appropriate time for DSRs to turn off camera and complete other [tasks](#Weekly-Tasks)
+## This is an appropriate time for DSRs to turn off camera and complete other [tasks](#Weekly-Tasks)
 
 ## Post CSM recording after it processes 
 - edit recording name to include: *instructor, topic(s), date*
@@ -483,9 +491,9 @@ ______________
 	git pull  
 	code .
 	```
-Add zoom link in career services videos markdown file in VSCode
+## Add zoom link in career services videos markdown file in VSCode
 
-Save changes
+## Save changes
 
 	```bash
 	learn preview -o .
@@ -493,6 +501,7 @@ Save changes
 	git commit -m 'added CSM video'
 	git push origin RPP2
 	```
+
 In Learn:
 1. **SET UP** tab
 2. **Repos** tab
@@ -522,51 +531,54 @@ _______________
 
 
 - ### sparkbook
-
-$ docker run --name sparkbook -p 8881:8888 -v "$PWD":/home/jovyan/work jupyter/pyspark-notebook start.sh jupyter lab --LabApp.token=''
+> - $ docker run --name sparkbook -p 8881:8888 -v "$PWD":/home/jovyan/work jupyter/pyspark-notebook start.sh jupyter lab --LabApp.token=''
 
 - ### pgserv  
-
-$ docker run --name pgserv -d -p 5432:5432 -v "$PWD":/home/data -e POSTGRES_PASSWORD='galvanize' skylarenglish/galvanize:galv_db
-^only do this once. If there is a problem:
-	docker rm pgserv or docker container rm pgserv  and run again.
-docker start pgserv
-docker exec -it pgserv bash
-cd home/data/*from root of container 
-To leave the container:
-exit
-Docker stop pgserv
+> - $ docker run --name pgserv -d -p 5432:5432 -v "$PWD":/home/data -e POSTGRES_PASSWORD='galvanize' skylarenglish/galvanize:galv_db
+	
+> ^only do this once. If there is a problem:
+	
+		docker rm pgserv or docker container rm pgserv  and run again.
+	docker start pgserv
+	docker exec -it pgserv bash
+	cd home/data/*from root of container 
+	To leave the container:
+	exit
+	Docker stop pgserv
 ____
 
 psycopg2 Install probs, try:
-conda update --all
-conda install psycopg2 
+	
+	conda update --all
+	conda install psycopg2 
 ____
 
 Working with psycopg2 in notebook/script?
-import psycopg2 as pg2
-conn = pg2.connect(dbname='readychef',
-                     host='localhost',
-                     user='postgres',
-                     password='galvanize')
-cur = conn.cursor()
-query = '''select * from events limit 10;'''
-cur.execute(query)
-for row in cur:
-    print(row)
+	
+	import psycopg2 as pg2
+	conn = pg2.connect(dbname='readychef',
+			     host='localhost',
+			     user='postgres',
+			     password='galvanize')
+	cur = conn.cursor()
+	query = '''select * from events limit 10;'''
+	cur.execute(query)
+	for row in cur:
+	    print(row)
 
 
 ### mongoserver  
 
-If you get into the root directory and can’t navigate to home/data/…
+> If you get into the root directory and can’t navigate to home/data/…
 (probably means the docker container ‘mongoserver’ wasn’t initially run with the right path)
 From docker mongoserver root:
-```bash
-exit
-docker stop mongoserver
-docker rm mongoserver
-$ docker run --name mongoserver -p 27017:27017 -v "$PWD":/home/data -d mongo
-```
+	
+	```bash
+	exit
+	docker stop mongoserver
+	docker rm mongoserver
+	$ docker run --name mongoserver -p 27017:27017 -v "$PWD":/home/data -d mongo
+	```
 
 ### tensorflow
     ```bash 
@@ -597,31 +609,30 @@ $ docker run --name mongoserver -p 27017:27017 -v "$PWD":/home/data -d mongo
 
 ### Lecture Pulling
 To clone just lectures from the RPT branch
-```bash
-git clone -b RPT --single-branch https://github.com/GalvanizeDataScience/lectures.git
-```
+
+	```bash
+	git clone -b RPT --single-branch https://github.com/GalvanizeDataScience/lectures.git
+	```
 
 Tired of having to add your credentials to the terminal each time you want to clone or push?
-```bash
-git config --global credential.helper store
-git config --global credential.helper cache
-```
+	```bash
+	git config --global credential.helper store
+	git config --global credential.helper cache
+	```
 OR
 
-```bash
-git config --global credential.helper 'cache --timeout=3600'
-```
+	```bash
+	git config --global credential.helper 'cache --timeout=3600'
+	```
 
 ## Unix
 
 
 
-
 ## VSCode Environment
-____
-For the unix assignment, when I try to put the 2015_goog_sorted.csv file into the plot_stock_prices.py code, VSCode and Pylint gives an import error for matplotlib. How do I fix this?
-answer:
-I figured out how to get this to work. I needed to set up the anaconda environment by typing conda activate env into my python console. The environment can be found by typing 
+> For the unix assignment, when I try to put the 2015_goog_sorted.csv file into the plot_stock_prices.py code, VSCode and Pylint gives an import error for matplotlib. How do I fix this?
+> answer:
+> I figured out how to get this to work. I needed to set up the anaconda environment by typing conda activate env into my python console. The environment can be found by typing 
 conda info --envs into the console.
 ____
 
@@ -630,31 +641,32 @@ ____
 - “I've run into this problem whenever I update my macbook. “
 > xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun  
 
-SOLN:
-```bash
-xcode-select --install
-```
+> SOLN:
+	
+	```bash
+	xcode-select --install
+	```
 
 ## Linux/Unix
 
-TIME TROUBLE windows vs unix.
-Anyone irritated by the time in windows being off after using dual-boot UNIX?
+> TIME TROUBLE windows vs unix.
+> Anyone irritated by the time in windows being off after using dual-boot UNIX?
 this command (in unix) will tell unix to use local time and then windows and unix Times will play nice.
 
-```bash
-timedatectl set-local-rtc 1 --adjust-system-clock
-```
+	```bash
+	timedatectl set-local-rtc 1 --adjust-system-clock
+	```
 
-If you're having trouble opening jupyter on a linux machine, it might be because you're using chrome, I've never had any problems with firefox. 
+> If you're having trouble opening jupyter on a linux machine, it might be because you're using chrome, I've never had any problems with firefox. 
 
 ## Windows (even though the program may not 'technically' support windows)
 
-Okay I think the substitution for $PWD is %cd%. At least that’s what this article is telling me. https://stackoverflow.com/questions/35767929/using-docker-via-windows-console-includes-invalid-characters-pwd-for-a-local-v
+> Okay I think the substitution for $PWD is %cd%. At least that’s what this article is telling me. https://stackoverflow.com/questions/35767929/using-docker-via-windows-console-includes-invalid-characters-pwd-for-a-local-v
 
 _________________
 
 # Tuesday Team Meetings 
-[Asana](https://app.asana.com/0/home/1199688949945059)
+> [Asana](https://app.asana.com/0/home/1199688949945059)
 
 ______________
 	
