@@ -80,7 +80,8 @@ ______________
 - Check to see if an assessment grading is needed - grade and message the PL when the HUB spreadsheet has been updated
 - Check assignments due today and check late submissions from the previous week. Update assignment submission HUB. If a student has not submitted an assignment please complete ONE of the following:
 	- 1. Message the student and the PL asking why the student has not turned in an assignment. Use the following message:
-	- “...” (Kristen to fill in messaging)
+	> - “Hi NAME! I hope you are doing well. I was checking assignment submissions and I saw that you have not turned in NAME OF ASSIGNMENT. Did you forget to submit the assignment in LEARN, or are you needing more time to work on this?”
+	> - If the student needs more time, give them to next class to complete and leave a note in the submissions tab as a comment so the PL or next DSR will know that you've spoken to them about the submission
 	- OR
 	- 2. Contact the PL to reach out
 - *Check "non-lecture day" links below for additional instructions
