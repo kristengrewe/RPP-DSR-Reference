@@ -13,6 +13,19 @@ ______________
 # Table of Contents for this Repo
 
 > ## [Daily & Weekly Tasks](#Daily-&-Weekly-Tasks)
+> > ## [Lecture Days](#Lecture-Days)
+> > ## [Assessment Days](#Assessment-Days)
+> > ## [Case Study Days](#Case-Study-Days)
+> > ## [Capstone Days](#Capstone-Days)
+> > ## [Career Services Days](#Career-Services-Days)
+
+> ## [Pair Programming](#Pair-Programming)
+
+> ## [Calendars](#Calendars)
+
+> ## [Assignments & Solutions](#Assignments-&-Solutions)
+
+> ## [Attendance](#Attendance)
 
 > ## [Help Desk](#Help-Desk)  
 
@@ -20,7 +33,7 @@ ______________
 
 > ## [Tuesday Team Meeting](#Tuesday-Team-Meetings)
 
-> ## [Ultipro Stuff](#Ultipro-Stuff)
+> ## [Orientation & Ultipro Stuff](#Orientation-&-Ultipro-Stuff)
 
 ______________
 
@@ -640,12 +653,17 @@ Okay I think the substitution for $PWD is %cd%. At least that’s what this arti
 
 _________________
 
-## Tuesday Team Meetings 
+# Tuesday Team Meetings 
 [Asana](https://app.asana.com/0/home/1199688949945059)
 
 ______________
 	
-## Ultipro Stuff
+# Orietnation & Ultipro Stuff
+
+## Orientation
+- Copy [this document](https://docs.google.com/spreadsheets/d/1vRmOobvl6ovfYI5xM2-d3R14a4bBJfDHyHoTb2_kpVs/edit#gid=836494844) and complete all tasks
+
+## Ultipro
 1. Open incognito window (command+shift+n)
 2. Open outlook (make sure you are signed in with k12 email)
 3. Open http://portal.office.com/ (right click and choose open in new incognito window)
