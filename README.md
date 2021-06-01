@@ -72,22 +72,22 @@ ______________
 
 # Daily & Weekly Tasks 
 
-## Everyday:
+## Every class day:
 - Take attendance (*If the student is not in class, reach out to PL or the student directly)
 - Remember to RECORD lectures
 - Open LEARN modules, assessments, and assignments for the day
+- Check and update cohort solutions repo
 - Check to see if an assessment grading is needed - grade and message the PL when the HUB spreadsheet has been updated
 - Check assignments due today and check late submissions from the previous week. Update assignment submission HUB. If a student has not submitted an assignment please complete ONE of the following:
 	- 1. Message the student and the PL asking why the student has not turned in an assignment. Use the following message:
 	- “...” (Kristen to fill in messaging)
 	- OR
 	- 2. Contact the PL to reach out
-- *Check non-lecture day links for additional instructions
+- *Check "non-lecture day" links below for additional instructions
 
-- **Send a slack message out at the end of class of assignments due (including async), assessments, and Capstone proposal due dates coming up the following week (include dates)
+- **Send a slack message out at the end of class on assignments (including async), assessments, and Capstone proposal due dates coming up the following week (include dates)
 	- bold async assignment(s)
 	- italicize paired assignment(s)
-	- Announcement Example Image
 
 ## Saturday only: 
 - [Assign pair programming](#Pair-Programming) groups and assign a “scheduler” 2 weeks out 
