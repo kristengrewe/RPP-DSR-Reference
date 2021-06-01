@@ -178,11 +178,11 @@ ______________
 > [* updating due dates how to video](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
 
 ## How to open the LEARN Modules for Upcoming Week
-	1. **SET UP** tab
-	2. **Content** tab
-	3. **<block_name>** block
-	4. click grey eyeball to right of <block_name>  
-	Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
+1. **SET UP** tab
+2. **Content** tab
+3. **<block_name>** block
+4. click grey eyeball to right of <block_name>  
+> Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
 
 > [* open learn modules for upcoming week how to video](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
 
@@ -380,7 +380,7 @@ ______________
 - Count down announcements at: 30, 15, 5 minutes left
 
 ## Checking Submission of Assessment 
-1. [RPP2 Learn](https://learn-2.galvanize.com/cohorts/2432)
+1. **Go to Cohort LEARN page
 2. **DSI Assesment_#** block 
 3. **Results** table   
 4. **Status** column
