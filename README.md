@@ -16,28 +16,28 @@ ______________
 
 # Table of Contents for this Repo
 
-> ## [Daily & Weekly Tasks](#Daily-&-Weekly-Tasks)
-> > ## [Lecture Days](#Lecture-Days)
-> > ## [Assessment Days](#Assessment-Days)
-> > ## [Case Study Days](#Case-Study-Days)
-> > ## [Capstone Days](#Capstone-Days)
-> > ## [Career Services Days](#Career-Services-Days)
+> ## [Jump to Daily & Weekly Tasks](#Daily-&-Weekly-Tasks)
+> > ## [Jump to Lecture Days](#Lecture-Days)
+> > ## [Jump to Assessment Days](#Assessment-Days)
+> > ## [Jump to Case Study Days](#Case-Study-Days)
+> > ## [Jump to Capstone Days](#Capstone-Days)
+> > ## [Jump to Career Services Days](#Career-Services-Days)
 
-> ## [Pair Programming](#Pair-Programming)
+> ## [Jump to Pair Programming](#Pair-Programming)
 
-> ## [Calendars](#Calendars)
+> ## [Jump to Calendars](#Calendars)
 
-> ## [Assignments & Solutions](#Assignments-&-Solutions)
+> ## [Jump to Assignments & Solutions](#Assignments-&-Solutions)
 
-> ## [Attendance](#Attendance)
+> ## [Jump to Attendance](#Attendance)
 
-> ## [Help Desk](#Help-Desk)  
+> ## [Jump to Help Desk](#Help-Desk)  
 
-> ## [Common Fixes](#Common-Fixes)   
+> ## [Jump to Common Fixes](#Common-Fixes)   
 
-> ## [Tuesday Team Meeting](#Tuesday-Team-Meetings)
+> ## [Jump to Tuesday Team Meeting](#Tuesday-Team-Meetings)
 
-> ## [Orientation & Ultipro Stuff](#Orientation-&-Ultipro-Stuff)
+> ## [Jump to Orientation & Ultipro Stuff](#Orientation-&-Ultipro-Stuff)
 
 ______________
 
