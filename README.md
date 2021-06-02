@@ -16,7 +16,7 @@ ______________
 
 # Table of Contents for this Repo
 
-> ## [Jump to Daily & Weekly Tasks](#Daily-&-Weekly-Tasks)
+> ## [Jump to Daily & Weekly Tasks](#Daily--Weekly-Tasks)
 > > ## [Jump to Lecture Days](#Lecture-Days)
 > > ## [Jump to Assessment Days](#Assessment-Days)
 > > ## [Jump to Case Study Days](#Case-Study-Days)
