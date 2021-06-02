@@ -110,166 +110,6 @@ ______________
 	[Retro Days](#Retro-Days)
 	
 	[Career Services Days](#Career-Services-Days)  
-	
-______________
-
-# Pair Programming
-> Create pairs for any paired assignment - Choose one person to be the “scheduler”
-> Refer to Cohort Hub Important Docs Tab for pairs google sheet (this sheet is student facing)
-
-### Example of simple code for random list of students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
-	```python
-	import numpy as np
-	RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
-                 'Sean_PST', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
-                 'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
-
-	np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
-	```
-	
-	**challenges**  
-	- Sometimes students may express that they don't want to work with another student. Different instructors handle this differently, 	posting the proposed pairs/groups to the team allows feedback and maybe adjustments.  
-	- Different time zones and work/family schedules can make pair programming difficult for part-time cohorts. 
-    
-    	Ask instructor regarding:   
-      	- pairing based on time zones or schedules (alternatives to random pairings) 
-      	- due date extensions with prior approval
-
-	[* updating pairs how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
-
-______________
-
-# Calendars
-
-## Cohort Spreadsheet Calendars 
-- [RPP Full Main Calendar - Individual Cohort Tabs](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=0)
-
-## DSR Coverage Calendars: 
-- [RPP2 DSR Google Calendar](https://calendar.google.com/calendar/embed?src=c_pa4h4gm1ip6er94u2gt20q7h7o%40group.calendar.google.com&ctz=America%2FChicago)
-- [RPP3 DSR Google Calendar](https://calendar.google.com/calendar/embed?src=c_j838vkh4d69bb0s5kvbtoovfcg%40group.calendar.google.com&ctz=America%2FChicago) 
-
-## Cohort Google Calendars:
-- [RPP2 Schedule](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=883812835)
-- [RPP3 Schedule](https://calendar.google.com/calendar/embed?src=c_gki3tdciq14d70e9uuplvnueno%40group.calendar.google.com&ctz=America%2FChicago)
-
-	- *Are dates and order of modules correct? (Alert PL to discrepancies)
-
-______________
-# Assignments & Solutions
-
-## Assignment Submissions
-
-### Checking Assignment Submissions in LEARN
-1. **UNIT PROGRESS** tab
-2. **<block_name>** use down arrow
-3. <Assignment_name> use down arrow   
-4. <Assignment_Submission> small circle indicates 'submitted'
-
-### After checking submissions in LEARN, update Assignment Submission Sheet in HUB 
-
-> A one-class grace has bee the norm. For example, if the assignment is due on Tuesday, checking for that assignment submission + updating the google sheet on Thursday worked well. At the discretion of the instructor/PL, students may ask for an extension to the due date.
-
-> [* checking and updating assignment submissions how to video](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
-
-## Assignment Due Dates:
-- In general, the due date is a week from the corresponding lecture.  
-- Async assignments are due a week from that week's Saturday lecture.
-- Paired assignments should be italicized
-
-> [* updating due dates how to video](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
-
-## How to open the LEARN Modules for Upcoming Week
-1. **SET UP** tab
-2. **Content** tab
-3. **<block_name>** block
-4. click grey eyeball to right of <block_name>  
-> Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
-
-> [* open learn modules for upcoming week how to video](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
-
-
-> [GitHub gSchool](https://github.com/gSchool)  *(You can find the cohort LEARN links at the top of this Repo or in the cohort hub)
-
-> [RPP2 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
-
-> [RPP3 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
-
-
-## JUST ONE TIME, get access to gSchool Learn
-
-	Follow the repo or the steps below
-
-	1. [Install Learn in terminal](https://github.com/gSchool/glearn-cli/blob/master/README.md)
-
-	```bash
-	brew tap gSchool/learn
-	brew install learn
-	brew list # look for 'learn'
-	learn set --api_token=<api token found in “API Token” tab under username in top right corner of Learn>
-	```
-	[Learn site API token generator](https://learn-2.galvanize.com/api_token)
-
-	> If you see this error:
-
-	> Error: The following directories are not writable by your user: /usr/local/bin. You should change the ownership of these directories to your user.
-	* use the suggestion the terminal gives
-	```bash
-	sudo chown -R $(whoami) /usr/local/bin
-	```
-	* use brew doctor to find any warnings you might have with brew
-
-	**Create a directory to store all the Learn repos: Desktop/Galvanize/RPP2/LEARN**
-
-	### For each Learn block, clone learn gSchool module into your Learn directory
-	> if you have already cloned the repo,
-	> - You don't need to re-clone the repo, just navigate in to repo
-	> - REMEMBER TO PULL after navigating into repo
-
-	```bash
-	cd Desktop/Galvanize/LEARN
-	git clone https://github.com/gSchool/dsi-learn-clustering-methods.git # if not yet cloned
-	cd dsi-learn-clustering-methods
-	git pull origin RPP2  # git pull will not update all branches
-	git checkout RPP2 
-	code .
-	```
-	Make necessary changes in VSCode markdown file(s)
-
-	Save changes
-
-	```bash
-	git status  # will  show the modified files
-	learn preview -o .  # opens a 'practice' Learn block to see repo after changes
-	git add .
-	git commit -m 'description of changes'
-	git push origin RPP2
-	```
-
-In Learn:
-1. **SET UP** tab
-2. **Repos** tab
-3. **<block_name>** block will have a green 'updates' oval
-4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
-5. Double check that the changes are working in the student facing Learn block.
-
-[* editing Learn (fix solutions link example)](https://drive.google.com/file/d/1n-1kg-IupQXr9SPQNdlOMcEk-H0r0mGz/view?usp=sharing)
-
-
-[Announcement Example Image](https://drive.google.com/file/d/1LzQ-3ANuL5Tuwv6pitsJpISPrPRVKRWg/view?usp=sharing)
-______________
-
-# Attendance
-
-## Attendance Policy (RPP3 and after)
-- T/Th classes are 1 point
-- Sat classes are 3 points
-- Maximum of 15 points before student is expelled
-- One time extension is possible 
-* Please review all the details with PL
-
-## Attendance Policy (RPPT1 & RPP2)
-- Within the Attendance tab the process is very self-explanatory.  
-- Holding up fingers to show the instructor how many students we are waiting on has been effective in RPP2.
 
 ______________
 
@@ -321,8 +161,6 @@ ______________
 	7. git push
 
 > [* add solutions to cohort's solutions repo how to video](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
-
-______________
 
 ## Post Lecture Recording After it Processes
 
@@ -511,6 +349,166 @@ In Learn:
 5. Double check that the changes are working in the student facing Learn block.
 
 > [* add Zoom lecture recording to Learn how to video](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
+
+______________
+
+# Pair Programming
+> Create pairs for any paired assignment - Choose one person to be the “scheduler”
+> Refer to Cohort Hub Important Docs Tab for pairs google sheet (this sheet is student facing)
+
+### Example of simple code for random list of students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
+	```python
+	import numpy as np
+	RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
+                 'Sean_PST', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
+                 'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
+
+	np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
+	```
+	
+	**challenges**  
+	- Sometimes students may express that they don't want to work with another student. Different instructors handle this differently, 	posting the proposed pairs/groups to the team allows feedback and maybe adjustments.  
+	- Different time zones and work/family schedules can make pair programming difficult for part-time cohorts. 
+    
+    	Ask instructor regarding:   
+      	- pairing based on time zones or schedules (alternatives to random pairings) 
+      	- due date extensions with prior approval
+
+	[* updating pairs how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
+
+______________
+
+# Calendars
+
+## Cohort Spreadsheet Calendars 
+- [RPP Full Main Calendar - Individual Cohort Tabs](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=0)
+
+## DSR Coverage Calendars: 
+- [RPP2 DSR Google Calendar](https://calendar.google.com/calendar/embed?src=c_pa4h4gm1ip6er94u2gt20q7h7o%40group.calendar.google.com&ctz=America%2FChicago)
+- [RPP3 DSR Google Calendar](https://calendar.google.com/calendar/embed?src=c_j838vkh4d69bb0s5kvbtoovfcg%40group.calendar.google.com&ctz=America%2FChicago) 
+
+## Cohort Google Calendars:
+- [RPP2 Schedule](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=883812835)
+- [RPP3 Schedule](https://calendar.google.com/calendar/embed?src=c_gki3tdciq14d70e9uuplvnueno%40group.calendar.google.com&ctz=America%2FChicago)
+
+	- *Are dates and order of modules correct? (Alert PL to discrepancies)
+
+______________
+# Assignments & Solutions
+
+## Assignment Submissions
+
+### Checking Assignment Submissions in LEARN
+1. **UNIT PROGRESS** tab
+2. **<block_name>** use down arrow
+3. <Assignment_name> use down arrow   
+4. <Assignment_Submission> small circle indicates 'submitted'
+
+### After checking submissions in LEARN, update Assignment Submission Sheet in HUB 
+
+> A one-class grace has bee the norm. For example, if the assignment is due on Tuesday, checking for that assignment submission + updating the google sheet on Thursday worked well. At the discretion of the instructor/PL, students may ask for an extension to the due date.
+
+> [* checking and updating assignment submissions how to video](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
+
+## Assignment Due Dates:
+- In general, the due date is a week from the corresponding lecture.  
+- Async assignments are due a week from that week's Saturday lecture.
+- Paired assignments should be italicized
+
+> [* updating due dates how to video](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
+
+## How to open the LEARN Modules for Upcoming Week
+1. **SET UP** tab
+2. **Content** tab
+3. **<block_name>** block
+4. click grey eyeball to right of <block_name>  
+> Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
+
+> [* open learn modules for upcoming week how to video](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
+
+
+> [GitHub gSchool](https://github.com/gSchool)  *(You can find the cohort LEARN links at the top of this Repo or in the cohort hub)
+
+> [RPP2 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
+
+> [RPP3 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
+
+
+## JUST ONE TIME, get access to gSchool Learn
+
+	Follow the repo or the steps below
+
+	1. [Install Learn in terminal](https://github.com/gSchool/glearn-cli/blob/master/README.md)
+
+	```bash
+	brew tap gSchool/learn
+	brew install learn
+	brew list # look for 'learn'
+	learn set --api_token=<api token found in “API Token” tab under username in top right corner of Learn>
+	```
+	[Learn site API token generator](https://learn-2.galvanize.com/api_token)
+
+	> If you see this error:
+
+	> Error: The following directories are not writable by your user: /usr/local/bin. You should change the ownership of these directories to your user.
+	* use the suggestion the terminal gives
+	```bash
+	sudo chown -R $(whoami) /usr/local/bin
+	```
+	* use brew doctor to find any warnings you might have with brew
+
+	**Create a directory to store all the Learn repos: Desktop/Galvanize/RPP2/LEARN**
+
+	### For each Learn block, clone learn gSchool module into your Learn directory
+	> if you have already cloned the repo,
+	> - You don't need to re-clone the repo, just navigate in to repo
+	> - REMEMBER TO PULL after navigating into repo
+
+	```bash
+	cd Desktop/Galvanize/LEARN
+	git clone https://github.com/gSchool/dsi-learn-clustering-methods.git # if not yet cloned
+	cd dsi-learn-clustering-methods
+	git pull origin RPP2  # git pull will not update all branches
+	git checkout RPP2 
+	code .
+	```
+	Make necessary changes in VSCode markdown file(s)
+
+	Save changes
+
+	```bash
+	git status  # will  show the modified files
+	learn preview -o .  # opens a 'practice' Learn block to see repo after changes
+	git add .
+	git commit -m 'description of changes'
+	git push origin RPP2
+	```
+
+In Learn:
+1. **SET UP** tab
+2. **Repos** tab
+3. **<block_name>** block will have a green 'updates' oval
+4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
+5. Double check that the changes are working in the student facing Learn block.
+
+[* editing Learn (fix solutions link example)](https://drive.google.com/file/d/1n-1kg-IupQXr9SPQNdlOMcEk-H0r0mGz/view?usp=sharing)
+
+
+[Announcement Example Image](https://drive.google.com/file/d/1LzQ-3ANuL5Tuwv6pitsJpISPrPRVKRWg/view?usp=sharing)
+______________
+
+# Attendance
+
+## Attendance Policy (RPP3 and after)
+- T/Th classes are 1 point
+- Sat classes are 3 points
+- Maximum of 15 points before student is expelled
+- One time extension is possible 
+* Please review all the details with PL
+
+## Attendance Policy (RPPT1 & RPP2)
+- Within the Attendance tab the process is very self-explanatory.  
+- Holding up fingers to show the instructor how many students we are waiting on has been effective in RPP2.
 
 _______________
 
