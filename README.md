@@ -137,20 +137,20 @@ ______________
 > ^All the solution directories are here^
 
 - [RPP2 Solutions Repo](https://github.com/GalvanizeDataScience/solutions-rpp2)
-- [RPP3 Solutions Repo] *add link 
+- [RPP3 Solutions Repo](https://github.com/GalvanizeDataScience/solutions-rpp2)
 
 
 ### ONLY DO THIS PART THE FIRST TIME YOU ADD SOLUTIONS:
 
 	RPP2 example: 
-
+	
 	1. git clone https://github.com/GalvanizeDataScience/solutions-rpp2.git
 	2. cd into solutions repo
 	3. git remote add solutions https://github.com/GalvanizeDataScience/solutions.git
 	4. git fetch solutions main
-
+	
 	DO THIS EVERY TIME YOU ADD SOLUTIONS:
-
+	
 	1. cd into solutions repo
 	2. git pull
 	3. git fetch solutions main
@@ -177,7 +177,7 @@ ______________
 	```
 	In VSCode: 
 	- Add lecture recording link.
-
+	
 	- Save changes.
 
 Back in terminal:
@@ -188,7 +188,7 @@ Back in terminal:
 	git commit -m 'add lecture recording'
 	git push origin RPP2
 	```
-
+	
 	1. **SET UP** tab
 	2. **Repos** tab
 	3. **<block_name>** block will have a green 'updates' oval
@@ -263,13 +263,13 @@ ______________
 # Case Study Days  
 ## Generate Groups of 3/4 students  
 > Simple code for random list of RPP2 students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
-	
+
 	```python
 	import numpy as np
 	RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
 			 'Sean_PST?', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
 			 'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
-
+	
 	np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 	```
 
@@ -288,7 +288,6 @@ ______________
 > cloned from student A by other team members 
 
 - [Ryan & Heather example video](https://zoom.us/rec/share/WYhK0DE1ZBs4lvN33JDCp3eMHl7QTycVjlaRXbWCgaXcVvwJ8CBzsrVFqjvMln1T.oETxz6XDF0QB1LuA?startTime=1616691949000)
-    
 > - suggest VSCode Live Share for README.md  
 
 3. Slide deck/presentation tool started  
@@ -322,7 +321,7 @@ ______________
 ## Post CSM recording after it processes 
 - edit recording name to include: *instructor, topic(s), date*
 - check that no passcode is required
-   
+  
 	```bash
 	cd dsi-learn-welcome-template
 	git pull  
@@ -360,20 +359,20 @@ ______________
 	```python
 	import numpy as np
 	RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
-                 'Sean_PST', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
-                 'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
-
+	             'Sean_PST', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
+	             'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
+	
 	np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 	```
 	
 	**challenges**  
 	- Sometimes students may express that they don't want to work with another student. Different instructors handle this differently, 	posting the proposed pairs/groups to the team allows feedback and maybe adjustments.  
 	- Different time zones and work/family schedules can make pair programming difficult for part-time cohorts. 
-    
-    	Ask instructor regarding:   
-      	- pairing based on time zones or schedules (alternatives to random pairings) 
-      	- due date extensions with prior approval
-
+	
+		Ask instructor regarding:   
+	  	- pairing based on time zones or schedules (alternatives to random pairings) 
+	  	- due date extensions with prior approval
+	
 	[* updating pairs how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
 ______________
@@ -437,9 +436,9 @@ ______________
 ## JUST ONE TIME, get access to gSchool Learn
 
 	Follow the repo or the steps below
-
+	
 	1. [Install Learn in terminal](https://github.com/gSchool/glearn-cli/blob/master/README.md)
-
+	
 	```bash
 	brew tap gSchool/learn
 	brew install learn
@@ -447,23 +446,23 @@ ______________
 	learn set --api_token=<api token found in “API Token” tab under username in top right corner of Learn>
 	```
 	[Learn site API token generator](https://learn-2.galvanize.com/api_token)
-
+	
 	> If you see this error:
-
+	
 	> Error: The following directories are not writable by your user: /usr/local/bin. You should change the ownership of these directories to your user.
 	* use the suggestion the terminal gives
 	```bash
 	sudo chown -R $(whoami) /usr/local/bin
 	```
 	* use brew doctor to find any warnings you might have with brew
-
+	
 	**Create a directory to store all the Learn repos: Desktop/Galvanize/RPP2/LEARN**
-
+	
 	### For each Learn block, clone learn gSchool module into your Learn directory
 	> if you have already cloned the repo,
 	> - You don't need to re-clone the repo, just navigate in to repo
 	> - REMEMBER TO PULL after navigating into repo
-
+	
 	```bash
 	cd Desktop/Galvanize/LEARN
 	git clone https://github.com/gSchool/dsi-learn-clustering-methods.git # if not yet cloned
@@ -473,9 +472,9 @@ ______________
 	code .
 	```
 	Make necessary changes in VSCode markdown file(s)
-
+	
 	Save changes
-
+	
 	```bash
 	git status  # will  show the modified files
 	learn preview -o .  # opens a 'practice' Learn block to see repo after changes
@@ -534,9 +533,9 @@ _______________
 
 - ### pgserv  
 > - $ docker run --name pgserv -d -p 5432:5432 -v "$PWD":/home/data -e POSTGRES_PASSWORD='galvanize' skylarenglish/galvanize:galv_db
-	
+
 > ^only do this once. If there is a problem:
-	
+
 		docker rm pgserv or docker container rm pgserv  and run again.
 	docker start pgserv
 	docker exec -it pgserv bash
@@ -571,7 +570,7 @@ Working with psycopg2 in notebook/script?
 > If you get into the root directory and can’t navigate to home/data/…
 (probably means the docker container ‘mongoserver’ wasn’t initially run with the right path)
 From docker mongoserver root:
-	
+
 	```bash
 	exit
 	docker stop mongoserver
@@ -582,7 +581,7 @@ From docker mongoserver root:
 ### tensorflow
     ```bash 
     docker run -it --name tensorflow -p 8888:8888 -v "$PWD":/tf tensorflow/tensorflow:2.0.0a0-py3-jupyter
- 
+     
     docker start tensorflow
     docker exec -it tensorflow bash
     ```
@@ -641,7 +640,7 @@ ____
 > xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun  
 
 > SOLN:
-	
+
 	```bash
 	xcode-select --install
 	```
@@ -668,7 +667,7 @@ _________________
 > [Asana](https://app.asana.com/0/home/1199688949945059)
 
 ______________
-	
+
 # Orietnation & Ultipro Stuff
 
 ## Orientation
