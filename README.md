@@ -1,4 +1,4 @@
-# Quick Links 
+# **Quick Links**
 
 > ## [RPP2 Main Hub](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)
 > ## [RPP3 Main Hub](https://docs.google.com/spreadsheets/d/1IaD-8F5I1AIN4wzXJIDOzI6LsZiR6gl3UTq4b-px9_M/edit#gid=231386871)
@@ -9,7 +9,7 @@
 
 ______________
 
-# Table of Contents for this Repo
+# **Table of Contents for this Repo**
 
 > ## [Jump to Daily & Weekly Tasks](#Daily--Weekly-Tasks)
 > > ### [Jump to Lecture Days](#Lecture-Days)
@@ -31,29 +31,29 @@ ______________
 
 # How-To Videos
 
-- [Updating Pairs How To Video 2:34](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
+- [Updating Pairs How To Video (2:34)](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
-- [Updating Due Dates How To Video 2:34](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
+- [Updating Due Dates How To Video (2:34)](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
 
-- [Open Learn modules for upcoming week 0:53](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
+- [Open Learn modules for upcoming week (0:53)](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
 
-- [Editing Learn (fix solutions link example) 5:05](https://drive.google.com/file/d/1pCDe8Aa-_zcKk_-2_fFUzFyNCnBTWuh3/view?usp=sharing)
+- [Editing Learn (fix solutions link example) (5:05)](https://drive.google.com/file/d/1pCDe8Aa-_zcKk_-2_fFUzFyNCnBTWuh3/view?usp=sharing)
 
-- [Checking & Updating Assignment Submissions in Learn 2:20](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
+- [Checking & Updating Assignment Submissions in Learn (2:20)](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
 
-- [Granting Access to Assignment Repo 2:09](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
+- [Granting Access to Assignment Repo (2:09)](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
 
-- [Add Assignment Solutions 3:33](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
+- [Add Assignment Solutions (3:33)](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
 
-- [Post zoom lecture recording 7:20](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
+- [Post zoom lecture recording (7:20)](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
 
-- [Opening Assessments in Learn 1:13](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
+- [Opening Assessments in Learn (1:13)](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
 
-- [FRI 5/28 Grade assessments 6:12](https://drive.google.com/file/d/1dNWeRkPHVlmTwg8TEfPE3YWnp4Hytu1U/view?usp=sharing)
+- [FRI 5/28 Grade assessments (6:12)](https://drive.google.com/file/d/1dNWeRkPHVlmTwg8TEfPE3YWnp4Hytu1U/view?usp=sharing)
 
-- [FRI 5/28 Add Assessment Solutions to Solutions Repo 2:28](https://drive.google.com/file/d/1c5u2M1G9GcI6baEgayPEBUhRXYw9thLg/view?usp=sharing)
+- [FRI 5/28 Add Assessment Solutions to Solutions Repo (2:28)](https://drive.google.com/file/d/1c5u2M1G9GcI6baEgayPEBUhRXYw9thLg/view?usp=sharing)
 
-- [Ultipro Clock In/Out + Time Sheet Changes 6:22](https://drive.google.com/file/d/1YSCi5f5xv8xA5YE6Mao7llonSldUH8J8/view?usp=sharing)
+- [Ultipro Clock In/Out + Time Sheet Changes (6:22)](https://drive.google.com/file/d/1YSCi5f5xv8xA5YE6Mao7llonSldUH8J8/view?usp=sharing)
 
 
 ______________
@@ -126,47 +126,48 @@ ______________
 
 - [RPP2 Solutions Repo](https://github.com/GalvanizeDataScience/solutions-rpp2)
 - [RPP3 Solutions Repo](https://github.com/GalvanizeDataScience/solutions-rpp2)
+---
+## RPP2 Example: 
 
+**ONLY DO THIS PART THE FIRST TIME YOU ADD SOLUTIONS:**
+```
+2. 1. git clone https://github.com/GalvanizeDataScience/solutions-rpp2.git
+2. cd into solutions repo
+3. git remote add solutions https://github.com/GalvanizeDataScience/solutions.git
+4. git fetch solutions main
+```
 
-### ONLY DO THIS PART THE FIRST TIME YOU ADD SOLUTIONS:
-
-	RPP2 example: 
-	
-	1. git clone https://github.com/GalvanizeDataScience/solutions-rpp2.git
-	2. cd into solutions repo
-	3. git remote add solutions https://github.com/GalvanizeDataScience/solutions.git
-	4. git fetch solutions main
-	
-	DO THIS EVERY TIME YOU ADD SOLUTIONS:
-	
-	1. cd into solutions repo
-	2. git pull
-	3. git fetch solutions main
-	4. git checkout solutions/main perceptrons
-	> using perceptrons as an example
-	5. git add .
-	6. git commit -m 'add perceptrons solutions'
-	7. git push
+**DO THIS EVERY TIME YOU ADD SOLUTIONS:**
+```
+1. cd into solutions repo
+2. git pull
+3. git fetch solutions main
+4. git checkout solutions/main perceptrons
+> using perceptrons as an example
+5. git add .
+6. git commit -m 'add perceptrons solutions'
+7. git push
+```
 
 > [* add solutions to cohort's solutions repo how to video](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
 
 ## Post Lecture Recording After it Processes
 
-	- edit recording name to include: *instructor, topic(s), date*
-	- check that no passcode is required
+    - edit recording name to include: *instructor, topic(s), date*
+    - check that no passcode is required
 
 
-	In a terminal, from the learn repo <dsi-learn-block>
-	```bash
-	git pull
-	git checkout RPP2
-	git pull (do we need to re-pull from each branch?)
-	code .
-	```
-	In VSCode: 
-	- Add lecture recording link.
-	
-	- Save changes.
+    In a terminal, from the learn repo <dsi-learn-block>
+    ```bash
+    git pull
+    git checkout RPP2
+    git pull (do we need to re-pull from each branch?)
+    code .
+    ```
+    In VSCode: 
+    - Add lecture recording link.
+    
+    - Save changes.
 
 Back in terminal:
 
