@@ -668,7 +668,7 @@ _________________
 
 ______________
 
-# Orietnation & Ultipro Stuff
+# Orientation & Ultipro Stuff
 
 ## Orientation
 - Copy [this document](https://docs.google.com/spreadsheets/d/1vRmOobvl6ovfYI5xM2-d3R14a4bBJfDHyHoTb2_kpVs/edit#gid=836494844) and complete all tasks
