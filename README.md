@@ -1,15 +1,10 @@
 # Quick Links 
 
 > ## [RPP2 Main Hub](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)
-
 > ## [RPP3 Main Hub](https://docs.google.com/spreadsheets/d/1IaD-8F5I1AIN4wzXJIDOzI6LsZiR6gl3UTq4b-px9_M/edit#gid=231386871)
-
 > ## [RPP2 Classroom Link](https://zoom.us/my/rppdsi.jrs)
-
 > ## [RPP3 Classroom Link](https://zoom.us/j/4164223231) 
-
 > ## [RPP2 LEARN Link](https://learn-2.galvanize.com/cohorts/2432) 
-
 > ## [RPP3 LEARN Link](https://learn-2.galvanize.com/cohorts/2679) 
 
 ______________
@@ -17,31 +12,23 @@ ______________
 # Table of Contents for this Repo
 
 > ## [Jump to Daily & Weekly Tasks](#Daily--Weekly-Tasks)
-> > ## [Jump to Lecture Days](#Lecture-Days)
-> > ## [Jump to Assessment Days](#Assessment-Days)
-> > ## [Jump to Case Study Days](#Case-Study-Days)
-> > ## [Jump to Capstone Days](#Capstone-Days)
-> > ## [Jump to Career Services Days](#Career-Services-Days)
-
+> > ### [Jump to Lecture Days](#Lecture-Days)
+> > ### [Jump to Assessment Days](#Assessment-Days)
+> > ### [Jump to Case Study Days](#Case-Study-Days)
+> > ### [Jump to Capstone Days](#Capstone-Days)
+> > ### [Jump to Career Services Days](#Career-Services-Days)
 > ## [Jump to Pair Programming](#Pair-Programming)
-
 > ## [Jump to Calendars](#Calendars)
-
 > ## [Jump to Assignments & Solutions](#Assignments--Solutions)
-
 > ## [Jump to Attendance](#Attendance)
-
 > ## [Jump to Help Desk](#Help-Desk)  
-
 > ## [Jump to Common Fixes](#Common-Fixes)   
-
 > ## [Jump to Tuesday Team Meeting](#Tuesday-Team-Meetings)
-
 > ## [Jump to Orientation & Ultipro Stuff](#Orientation--Ultipro-Stuff)
 
 ______________
 
-# How To Videos
+# How-To Videos
 
 - [Updating Pairs How To Video 2:34](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
