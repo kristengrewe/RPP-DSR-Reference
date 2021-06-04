@@ -17,6 +17,7 @@ ______________
 > > ### [Jump to Case Study Days](#Case-Study-Days)
 > > ### [Jump to Capstone Days](#Capstone-Days)
 > > ### [Jump to Career Services Days](#Career-Services-Days)
+
 > ## [Jump to Pair Programming](#Pair-Programming)
 > ## [Jump to Calendars](#Calendars)
 > ## [Jump to Assignments & Solutions](#Assignments--Solutions)
