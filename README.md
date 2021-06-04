@@ -27,7 +27,7 @@ ______________
 
 > ## [Jump to Calendars](#Calendars)
 
-> ## [Jump to Assignments & Solutions](#Assignments-&-Solutions)
+> ## [Jump to Assignments & Solutions](#Assignments--Solutions)
 
 > ## [Jump to Attendance](#Attendance)
 
@@ -37,7 +37,7 @@ ______________
 
 > ## [Jump to Tuesday Team Meeting](#Tuesday-Team-Meetings)
 
-> ## [Jump to Orientation & Ultipro Stuff](#Orientation-&-Ultipro-Stuff)
+> ## [Jump to Orientation & Ultipro Stuff](#Orientation--Ultipro-Stuff)
 
 ______________
 
