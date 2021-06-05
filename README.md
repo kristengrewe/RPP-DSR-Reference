@@ -153,36 +153,37 @@ ______________
 
 ## Post Lecture Recording After it Processes
 
-    - edit recording name to include: *instructor, topic(s), date*
-    - check that no passcode is required
+- edit recording name to include: *instructor, topic(s), date*
+- check that no passcode is required
 
 
-    In a terminal, from the learn repo <dsi-learn-block>
-    ```bash
-    git pull
-    git checkout RPP2
-    git pull (do we need to re-pull from each branch?)
-    code .
-    ```
-    In VSCode: 
-    - Add lecture recording link.
-    
-    - Save changes.
+In a terminal, from the learn repo <dsi-learn-block>
+```
+bash
+git pull
+git checkout RPP2
+git pull (do we need to re-pull from each branch?)
+code .
+```
+In VSCode: 
+- Add lecture recording link.
+
+- Save changes.
 
 Back in terminal:
 
-	```bash
-	learn preview -o . #the -o opens a preview Learn block to see changes
-	git add .
-	git commit -m 'add lecture recording'
-	git push origin RPP2
-	```
-	
-	1. **SET UP** tab
-	2. **Repos** tab
-	3. **<block_name>** block will have a green 'updates' oval
-	4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
-	5. Double check that the changes are working in the student facing Learn block.
+```bash
+learn preview -o . #the -o opens a preview Learn block to see changes
+git add .
+git commit -m 'add lecture recording'
+git push origin RPP2
+```
+
+1. **SET UP** tab
+2. **Repos** tab
+3. **<block_name>** block will have a green 'updates' oval
+4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
+5. Double check that the changes are working in the student facing Learn block.
 
 > [* add Zoom lecture recording to Learn how to video](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
 
@@ -215,15 +216,16 @@ ______________
 
 ## Adding Assessment Solutions to the Solutions repo
 
-	```bash
-	cd Desktop/Galvanize/RPP2/solutions-rpp2 # navigate into solutions repo 
-	git pull
-	git fetch solutions main
-	git checkout solutions/main assessments/assessment-0 # using 0 as an example
-	git add .
-	git commit -m 'add assessment-0 solutions'
-	git push
-	```
+```
+bash
+cd Desktop/Galvanize/RPP2/solutions-rpp2 # navigate into solutions repo 
+git pull
+git fetch solutions main
+git checkout solutions/main assessments/assessment-0 # using 0 as an example
+git add .
+git commit -m 'add assessment-0 solutions'
+git push
+```
 
 [* add assessment solutions to cohort's solutions repo how to video](https://drive.google.com/file/d/1c5u2M1G9GcI6baEgayPEBUhRXYw9thLg/view?usp=sharing)
 
