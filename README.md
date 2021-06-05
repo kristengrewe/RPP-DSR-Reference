@@ -70,7 +70,8 @@ ______________
 	- 1. Message the student and the PL asking why the student has not turned in an assignment. Use the following message:
 	> - “Hi NAME! I hope you are doing well. I was checking assignment submissions and I saw that you have not turned in NAME OF ASSIGNMENT. Did you forget to submit the assignment in LEARN, or are you needing more time to work on this?”
 	> - If the student needs more time, give them to next class to complete and leave a note in the submissions tab as a comment so the PL or next DSR will know that you've spoken to them about the submission
-	- OR
+
+	### OR
 	- 2. Contact the PL to reach out
 - *Check "non-lecture day" links below for additional instructions
 
@@ -118,10 +119,9 @@ ______________
 
 > [* granting access to assignment repo how to video](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
 
-> ### Add Solutions to Cohort's Solutions Repo
+### Add Solutions to Cohort's Solutions Repo
 
 > [Galvanize Main Solutions Repo](https://github.com/GalvanizeDataScience/solutions)
-
 > ^All the solution directories are here^
 
 - [RPP2 Solutions Repo](https://github.com/GalvanizeDataScience/solutions-rpp2)
@@ -143,7 +143,7 @@ ______________
 2. git pull
 3. git fetch solutions main
 4. git checkout solutions/main perceptrons
-> using perceptrons as an example
+> using (perceptrons as an example)
 5. git add .
 6. git commit -m 'add perceptrons solutions'
 7. git push
