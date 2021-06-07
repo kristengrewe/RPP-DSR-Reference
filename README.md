@@ -67,11 +67,13 @@ ______________
 - Check to see if an assessment grading is needed - grade and message the PL when the HUB spreadsheet has been updated
 - Check assignments due today and check late submissions from the previous week. Update assignment submission HUB. If a student has not submitted an assignment please complete ONE of the following:
 	- 1. Message the student and the PL asking why the student has not turned in an assignment. Use the following message:
-	> - “Hi NAME! I hope you are doing well. I was checking assignment submissions and I saw that you have not turned in NAME OF ASSIGNMENT. Did you forget to submit the assignment in LEARN, or are you needing more time to work on this?”
-	> - If the student needs more time, give them to next class to complete and leave a note in the submissions tab as a comment so the PL or next DSR will know that you've spoken to them about the submission
+		> - “Hi NAME! I hope you are doing well. I was checking assignment submissions and I saw that you have not turned in NAME OF ASSIGNMENT. Did you forget to submit the assignment in LEARN, or are you needing more time to work on this?”
+		> - If the student needs more time, give them to next class to complete and leave a note in the submissions tab as a comment so the PL or next DSR will know that you've spoken to them about the submission
 
-	### OR
+	### **OR**
+
 	- 2. Contact the PL to reach out
+
 - *Check "non-lecture day" links below for additional instructions
 
 - **Send a slack message out at the end of class on assignments (including async), assessments, and Capstone proposal due dates coming up the following week (include dates)
@@ -244,7 +246,7 @@ git push
 
 Assessment statistics will populate after inputs are complete, which can be used to add statistics to Learn:
 
-- ### Adding Assessment Statistics & Solutions to Learn
+### Adding Assessment Statistics & Solutions to Learn
 [RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md)
 
 [* editing learn to add assessment statistics & solutions link how to video](https://drive.google.com/file/d/1dNWeRkPHVlmTwg8TEfPE3YWnp4Hytu1U/view?usp=sharing)
@@ -304,38 +306,38 @@ ______________
 
 # Career Services Days  
 
-## Record with permission from CSM
+- ### Record with permission from CSM
 
-## This is an appropriate time for DSRs to turn off camera and complete other [tasks](#Weekly-Tasks)
+- ### This is an appropriate time for DSRs to turn off camera and complete [other tasks](#Weekly-Tasks)
 
 ## Post CSM recording after it processes 
 - edit recording name to include: *instructor, topic(s), date*
 - check that no passcode is required
   
-```bash
-cd dsi-learn-welcome-template
-git pull  
-git checkout RPP2 
-git pull  
-code .
-```
-## Add zoom link in career services videos markdown file in VSCode
+- ### Add zoom link in career services videos markdown file in VSCode:
+	```bash
+	cd dsi-learn-welcome-template
+	git pull  
+	git checkout RPP2 
+	git pull  
+	code .
+	```
 
-## Save changes
+- ### Save changes:
 
-```bash
-learn preview -o .
-git add .
-git commit -m 'added CSM video'
-git push origin RPP2
-```
+	```bash
+	learn preview -o .
+	git add .
+	git commit -m 'added CSM video'
+	git push origin RPP2
+	```
 
-In Learn:
-1. **SET UP** tab
-2. **Repos** tab
-3. **<block_name>** block will have a green 'updates' oval
-4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
-5. Double check that the changes are working in the student facing Learn block.
+- ### In Learn:
+	1. **SET UP** tab
+	2. **Repos** tab
+	3. **<block_name>** block will have a green 'updates' oval
+	4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
+	5. Double check that the changes are working in the student facing Learn block.
 
 > [* add Zoom lecture recording to Learn how to video](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
 
