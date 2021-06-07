@@ -129,26 +129,27 @@ ______________
 - [RPP2 Solutions Repo](https://github.com/GalvanizeDataScience/solutions-rpp2)
 - [RPP3 Solutions Repo](https://github.com/GalvanizeDataScience/solutions-rpp2)
 ---
+
 ## RPP2 Example: 
 
 **ONLY DO THIS PART THE FIRST TIME YOU ADD SOLUTIONS:**
-```
-2. 1. git clone https://github.com/GalvanizeDataScience/solutions-rpp2.git
-2. cd into solutions repo
-3. git remote add solutions https://github.com/GalvanizeDataScience/solutions.git
-4. git fetch solutions main
+```bash
+git clone https://github.com/GalvanizeDataScience/solutions-rpp2.git
+cd solutions-rpp2/  # Navigate to the directory you cloned to on your machine
+git remote add solutions https://github.com/GalvanizeDataScience/solutions.git
+git fetch solutions main
 ```
 
 **DO THIS EVERY TIME YOU ADD SOLUTIONS:**
-```
-1. cd into solutions repo
-2. git pull
-3. git fetch solutions main
-4. git checkout solutions/main perceptrons
-> (using perceptrons as an example)
-5. git add .
-6. git commit -m 'add perceptrons solutions'
-7. git push
+```bash
+cd solutions-rpp2/  # Navigate to the directory you cloned to on your machine
+git pull
+git fetch solutions main
+# > (using perceptrons as an example)
+git checkout solutions/main perceptrons
+git add .
+git commit -m 'add perceptrons solutions'
+git push
 ```
 
 > [* add solutions to cohort's solutions repo how to video](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
@@ -160,8 +161,7 @@ ______________
 
 
 In a terminal, from the learn repo <dsi-learn-block>
-```
-bash
+```bash
 git pull
 git checkout RPP2
 git pull (do we need to re-pull from each branch?)
@@ -218,8 +218,7 @@ ______________
 
 ## Adding Assessment Solutions to the Solutions repo
 
-```
-bash
+```bash
 cd Desktop/Galvanize/RPP2/solutions-rpp2 # navigate into solutions repo 
 git pull
 git fetch solutions main
@@ -365,7 +364,7 @@ np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
 	- pairing based on time zones or schedules (alternatives to random pairings) 
 	- due date extensions with prior approval
 
-[* updating pairs how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
+> [* updating pairs how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
 ______________
 
