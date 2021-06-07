@@ -17,7 +17,6 @@ ______________
 > > ### [Jump to Case Study Days](#Case-Study-Days)
 > > ### [Jump to Capstone Days](#Capstone-Days)
 > > ### [Jump to Career Services Days](#Career-Services-Days)
-
 > ## [Jump to Pair Programming](#Pair-Programming)
 > ## [Jump to Calendars](#Calendars)
 > ## [Jump to Assignments & Solutions](#Assignments--Solutions)
@@ -79,7 +78,8 @@ ______________
 	- bold async assignment(s)
 	- italicize paired assignment(s)
 
-## Saturday only: 
+## Weekly Tasks:
+> Done Saturdays and [Career Services](#Career-Services-Days) Days
 - [Assign pair programming](#Pair-Programming) groups and assign a “scheduler” 2 weeks out 
 - Check to see if your [office hours](##DSR-Coverage-Calendars) are correct for the following 2 weeks
 - Open the needed LEARN modules for the upcoming week
@@ -143,7 +143,7 @@ ______________
 2. git pull
 3. git fetch solutions main
 4. git checkout solutions/main perceptrons
-> using (perceptrons as an example)
+> (using perceptrons as an example)
 5. git add .
 6. git commit -m 'add perceptrons solutions'
 7. git push
@@ -255,14 +255,14 @@ ______________
 ## Generate Groups of 3/4 students  
 > Simple code for random list of RPP2 students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
 
-	```python
-	import numpy as np
-	RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
-			 'Sean_PST?', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
-			 'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
-	
-	np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
-	```
+```python
+import numpy as np
+RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
+			'Sean_PST?', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
+			'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
+
+np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
+```
 
 ## Assign breakout rooms 
 
@@ -271,7 +271,6 @@ ______________
 1. MVP plan
 
 > - use MVP+, MVP++, future work to handle overly optimistic plans
-
 > - plan should include hypothetic audience
 
 2. Github repo  
@@ -313,23 +312,23 @@ ______________
 - edit recording name to include: *instructor, topic(s), date*
 - check that no passcode is required
   
-	```bash
-	cd dsi-learn-welcome-template
-	git pull  
-	git checkout RPP2 
-	git pull  
-	code .
-	```
+```bash
+cd dsi-learn-welcome-template
+git pull  
+git checkout RPP2 
+git pull  
+code .
+```
 ## Add zoom link in career services videos markdown file in VSCode
 
 ## Save changes
 
-	```bash
-	learn preview -o .
-	git add .
-	git commit -m 'added CSM video'
-	git push origin RPP2
-	```
+```bash
+learn preview -o .
+git add .
+git commit -m 'added CSM video'
+git push origin RPP2
+```
 
 In Learn:
 1. **SET UP** tab
@@ -343,28 +342,28 @@ In Learn:
 ______________
 
 # Pair Programming
-> Create pairs for any paired assignment - Choose one person to be the “scheduler”
-> Refer to Cohort Hub Important Docs Tab for pairs google sheet (this sheet is student facing)
+
+* Create pairs for any paired assignment - Choose one person to be the “scheduler”
+* Refer to your [Cohort Hub](#quick-links) *Important Docs* Tab for pairs google sheet (this sheet is student facing)
 
 ### Example of simple code for random list of students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
-	```python
-	import numpy as np
-	RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
-	             'Sean_PST', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
-	             'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
+
+``` python
+import numpy as np
+RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT', 'Sean_PST', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
+
+np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
+```
 	
-	np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
-	```
-	
-	**challenges**  
-	- Sometimes students may express that they don't want to work with another student. Different instructors handle this differently, 	posting the proposed pairs/groups to the team allows feedback and maybe adjustments.  
-	- Different time zones and work/family schedules can make pair programming difficult for part-time cohorts. 
-	
-		Ask instructor regarding:   
-	  	- pairing based on time zones or schedules (alternatives to random pairings) 
-	  	- due date extensions with prior approval
-	
-	[* updating pairs how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
+**Challenges**  
+- Sometimes students may express that they don't want to work with another student. Different instructors handle this differently, 	posting the proposed pairs/groups to the team allows feedback and maybe adjustments.  
+- Different time zones and work/family schedules can make pair programming difficult for part-time cohorts. 
+
+	Ask instructor regarding:   
+	- pairing based on time zones or schedules (alternatives to random pairings) 
+	- due date extensions with prior approval
+
+[* updating pairs how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
 ______________
 
