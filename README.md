@@ -237,7 +237,7 @@ ______________
 3. In the top left corner you will find a link to the Assessment Full Grading Tracking Doc 
 4. Update the Full Grading Tracking Doc first and then in the assessments tab
 
-[* grading assessments how to video](https://drive.google.com/file/d/1dNWeRkPHVlmTwg8TEfPE3YWnp4Hytu1U/view?usp=sharing)
+[* grading assessments how to video]()
 
 Assessment statistics will populate after inputs are complete, which can be used to add statistics to Learn:
 
