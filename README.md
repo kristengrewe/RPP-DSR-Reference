@@ -65,13 +65,12 @@ ______________
 - Open LEARN modules, assessments, and assignments for the day
 - Check and update cohort solutions repo
 - Check to see if an assessment grading is needed - grade and message the PL when the HUB spreadsheet has been updated
+- Check to make sure previous class recording has been uploaded to the cohort spreadsheet. [Instructions on linking the recording in Cohort Spreadheet Calendar](##Post Lecture Recording In Cohort Spreadsheet Calendar After it Processes)
 - Check assignments due today and check late submissions from the previous week. Update assignment submission HUB. If a student has not submitted an assignment please complete ONE of the following:
 	- 1. Message the student and the PL asking why the student has not turned in an assignment. Use the following message:
 		> - “Hi NAME! I hope you are doing well. I was checking assignment submissions and I saw that you have not turned in NAME OF ASSIGNMENT. Did you forget to submit the assignment in LEARN, or are you needing more time to work on this?”
 		> - If the student needs more time, give them to next class to complete and leave a note in the submissions tab as a comment so the PL or next DSR will know that you've spoken to them about the submission
-
 	### **OR**
-
 	- 2. Contact the PL to reach out
 
 - *Check "non-lecture day" links below for additional instructions
@@ -154,40 +153,15 @@ git push
 
 > [* add solutions to cohort's solutions repo how to video](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
 
-## Post Lecture Recording After it Processes
+## Post Lecture Recording In Cohort Spreadsheet Calendar After it Processes
 
-- edit recording name to include: *instructor, topic(s), date*
-- check that no passcode is required
-
-
-In a terminal, from the learn repo <dsi-learn-block>
-```bash
-git pull
-git checkout RPP2
-git pull (do we need to re-pull from each branch?)
-code .
-```
-In VSCode: 
-- Add lecture recording link.
-
-- Save changes.
-
-Back in terminal:
-
-```bash
-learn preview -o . #the -o opens a preview Learn block to see changes
-git add .
-git commit -m 'add lecture recording'
-git push origin RPP2
-```
-
-1. **SET UP** tab
-2. **Repos** tab
-3. **<block_name>** block will have a green 'updates' oval
-4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
-5. Double check that the changes are working in the student facing Learn block.
-
-> [* add Zoom lecture recording to Learn how to video](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
+Instructions for Listing Lecture recordings:
+1. Locate recording in Zoom (Zoom log in info available in Important Docs tab in cohort HUB)
+2. Rename lecture recording
+>> edit "RPT DSI staff's Personal Meeting Room" to reflect cohort number and lecture title (e.g. RPP3 Graph Searching Lecture)
+>> edit "Recording 1" to same title (e.g. RPP3 Graph Searching Lecture)
+>>If there are 2 recordings for the day, label the recordings separately
+3. Link lecture recording in Cohort Spreadsheet Calendar
 
 ______________
 
