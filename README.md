@@ -1,10 +1,11 @@
 # **Quick Links**
 
 > ## [RPP2 Main Hub](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)
-> ## [RPP3 Main Hub](https://docs.google.com/spreadsheets/d/1IaD-8F5I1AIN4wzXJIDOzI6LsZiR6gl3UTq4b-px9_M/edit#gid=231386871)
 > ## [RPP2 Classroom Link](https://zoom.us/my/rppdsi.jrs)
-> ## [RPP3 Classroom Link](https://zoom.us/j/4164223231) 
 > ## [RPP2 LEARN Link](https://learn-2.galvanize.com/cohorts/2432) 
+> 
+> ## [RPP3 Main Hub](https://docs.google.com/spreadsheets/d/1IaD-8F5I1AIN4wzXJIDOzI6LsZiR6gl3UTq4b-px9_M/edit#gid=231386871)
+> ## [RPP3 Classroom Link](https://zoom.us/j/4164223231) 
 > ## [RPP3 LEARN Link](https://learn-2.galvanize.com/cohorts/2679) 
 
 ______________
@@ -30,13 +31,13 @@ ______________
 
 # How-To Videos
 
-- [Updating Pairs How To Video (2:34)](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
+- [Updating Pairs How to Video (2:34)](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
 
-- [Updating Due Dates How To Video (2:34)](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
+- [Updating Due Dates How to Video (2:34)](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
 
-- [Open Learn Modules For Upcoming Week (0:53)](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
+- [Open Learn Modules for Upcoming Week (0:53)](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
 
-- [Editing Learn (fix solutions link example) (5:05)](https://drive.google.com/file/d/1pCDe8Aa-_zcKk_-2_fFUzFyNCnBTWuh3/view?usp=sharing)
+- [Editing Learn (Fix Solutions Link Example) (5:05)](https://drive.google.com/file/d/1pCDe8Aa-_zcKk_-2_fFUzFyNCnBTWuh3/view?usp=sharing)
 
 - [Checking & Updating Assignment Submissions in Learn (2:20)](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
 
