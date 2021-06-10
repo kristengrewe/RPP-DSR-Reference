@@ -157,7 +157,7 @@ git push
 ## Post Lecture Recording In Cohort Spreadsheet Calendar After it Processes
 
 Instructions for Listing Lecture recordings:
-1. Locate recording in Zoom (Zoom log in info available in Important Docs tab in cohort HUB)
+1. Locate recording in Zoom (Zoom login available in HUB: Important Docs tab)
 2. Rename lecture recording
 > - edit "RPT DSI staff's Personal Meeting Room" to reflect cohort number and lecture title (e.g. RPP3 Graph Searching Lecture)
 > - edit "Recording 1" to same title (e.g. RPP3 Graph Searching Lecture)
