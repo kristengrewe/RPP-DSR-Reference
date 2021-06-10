@@ -34,7 +34,7 @@ ______________
 
 - [Updating Due Dates How To Video (2:34)](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
 
-- [Open Learn modules for upcoming week (0:53)](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
+- [Open Learn Modules For Upcoming Week (0:53)](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
 
 - [Editing Learn (fix solutions link example) (5:05)](https://drive.google.com/file/d/1pCDe8Aa-_zcKk_-2_fFUzFyNCnBTWuh3/view?usp=sharing)
 
@@ -44,11 +44,11 @@ ______________
 
 - [Add Assignment Solutions (3:33)](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
 
-- [Post zoom lecture recording (7:20)](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
+- [Post Zoom Lecture Recording (7:20)](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
 
 - [Opening Assessments in Learn (1:13)](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
 
-- [FRI 5/28 Grade assessments (6:12)](https://drive.google.com/file/d/1dNWeRkPHVlmTwg8TEfPE3YWnp4Hytu1U/view?usp=sharing)
+- [FRI 5/28 Grade Assessments (6:12)](https://drive.google.com/file/d/1dNWeRkPHVlmTwg8TEfPE3YWnp4Hytu1U/view?usp=sharing)
 
 - [FRI 5/28 Add Assessment Solutions to Solutions Repo (2:28)](https://drive.google.com/file/d/1c5u2M1G9GcI6baEgayPEBUhRXYw9thLg/view?usp=sharing)
 
