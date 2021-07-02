@@ -61,8 +61,9 @@ ______________
 # Daily & Weekly Tasks 
 
 ## Every class day:
+## Lead DSR Responsibilities
 - Take attendance (*If the student is not in class, reach out to PL or the student directly)
-- Remember to RECORD lectures
+- Remember to RECORD lectures & upload it to the spreadsheet after class OR the following day 
 - Open LEARN modules, assessments, and assignments for the day
 - Check and update cohort solutions repo
 - Check to see if an assessment grading is needed - grade and message the PL when the HUB spreadsheet has been updated
@@ -108,6 +109,7 @@ ______________
 
 ## Record Lecture
 > All the sticky notes & alarms in the world aren't as effective as multiple people checking that the lectures is being recorded. Let the cohort know you appreciate their help.
+> Lead DSR for the day must upload recording to the spreadsheet after class OR the following day
 
 ## Provide Access to Assignment Repo
 
@@ -209,6 +211,7 @@ git push
 ## Grading Assessments
 - ### In LEARN  
 > - You can find the cohort LEARN links at the top of this Repo or in the cohort hub
+> - split the grading amongst the two dedicated DSRs for the cohort
 
 - ### In Hub (2 places to input grades)
 1. You can find the cohort HUB links at the top of this Repo 
